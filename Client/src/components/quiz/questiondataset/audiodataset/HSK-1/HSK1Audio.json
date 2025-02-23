@@ -1,0 +1,162 @@
+[
+    {
+        "word": "我",
+        "meaning": "I, me",
+        "pinyin": "wǒ",
+        "example_sentence": "我是学生。 (Wǒ shì xuéshēng.) - I am a student.",
+        "category": "pronoun",
+        "audio": "audio_files/wo.mp3",
+        "options": [
+            "I, me",
+            "you",
+            "he, him",
+            "she, her"
+        ],
+        "answer": "I, me",
+        "group": "audio"
+    },
+    {
+        "word": "我们",
+        "meaning": "we, us",
+        "pinyin": "wǒmen",
+        "example_sentence": "我们去学校。 (Wǒmen qù xuéxiào.) - We are going to school.",
+        "category": "pronoun",
+        "audio": "audio_files/women.mp3",
+        "options": [
+            "we, us",
+            "you",
+            "they",
+            "I, me"
+        ],
+        "answer": "we, us",
+        "group": "audio"
+    },
+    {
+        "word": "你",
+        "meaning": "you",
+        "pinyin": "nǐ",
+        "example_sentence": "你好吗？ (Nǐ hǎo ma?) - How are you?",
+        "category": "pronoun",
+        "audio": "audio_files/ni.mp3",
+        "options": [
+            "you",
+            "he, him",
+            "she, her",
+            "I, me"
+        ],
+        "answer": "you",
+        "group": "audio"
+    },
+    {
+        "word": "他",
+        "meaning": "he, him",
+        "pinyin": "tā",
+        "example_sentence": "他是医生。 (Tā shì yīshēng.) - He is a doctor.",
+        "category": "pronoun",
+        "audio": "audio_files/ta_he.mp3",
+        "options": [
+            "he, him",
+            "she, her",
+            "they",
+            "you"
+        ],
+        "answer": "he, him",
+        "group": "audio"
+    },
+    {
+        "word": "她",
+        "meaning": "she, her",
+        "pinyin": "tā",
+        "example_sentence": "她是老师。 (Tā shì lǎoshī.) - She is a teacher.",
+        "category": "pronoun",
+        "audio": "audio_files/ta_she.mp3",
+        "options": [
+            "she, her",
+            "he, him",
+            "they",
+            "I, me"
+        ],
+        "answer": "she, her",
+        "group": "audio"
+    },
+    {
+        "word": "这",
+        "meaning": "this",
+        "pinyin": "zhè",
+        "example_sentence": "这是我的书。 (Zhè shì wǒ de shū.) - This is my book.",
+        "category": "pronoun",
+        "audio": "audio_files/zhe.mp3",
+        "options": [
+            "this",
+            "that",
+            "which",
+            "who"
+        ],
+        "answer": "this",
+        "group": "audio"
+    },
+    {
+        "word": "那",
+        "meaning": "that",
+        "pinyin": "nà",
+        "example_sentence": "那是我的车。 (Nà shì wǒ de chē.) - That is my car.",
+        "category": "pronoun",
+        "audio": "audio_files/na.mp3",
+        "options": [
+            "this",
+            "that",
+            "who",
+            "where"
+        ],
+        "answer": "that",
+        "group": "audio"
+    },
+    {
+        "word": "哪",
+        "meaning": "which",
+        "pinyin": "nǎ",
+        "example_sentence": "你喜欢哪个？ (Nǐ xǐhuān nǎge?) - Which one do you like?",
+        "category": "pronoun",
+        "audio": "audio_files/na3.mp3",
+        "options": [
+            "which",
+            "what",
+            "where",
+            "who"
+        ],
+        "answer": "which",
+        "group": "audio"
+    },
+    {
+        "word": "谁",
+        "meaning": "who",
+        "pinyin": "shéi",
+        "example_sentence": "你是谁？ (Nǐ shì shéi?) - Who are you?",
+        "category": "pronoun",
+        "audio": "audio_files/shei.mp3",
+        "options": [
+            "who",
+            "what",
+            "where",
+            "how"
+        ],
+        "answer": "who",
+        "group": "audio"
+    },
+    {
+        "word": "什么",
+        "meaning": "what",
+        "pinyin": "shénme",
+        "example_sentence": "这是什么？ (Zhè shì shénme?) - What is this?",
+        "category": "pronoun",
+        "audio": "audio_files/shenme.mp3",
+        "options": [
+            "what",
+            "who",
+            "where",
+            "how"
+        ],
+        "answer": "what",
+        "group": "audio"
+    }
+]

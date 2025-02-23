@@ -1,0 +1,1052 @@
+[
+    {
+        "word": "您",
+        "meaning": "you (polite)",
+        "pinyin": "nín",
+        "example_sentence": "您好！(Nín hǎo!) - Hello! (polite)",
+        "category": "pronoun"
+    },
+    {
+        "word": "它",
+        "meaning": "it",
+        "pinyin": "tā",
+        "example_sentence": "它是一只猫。(Tā shì yī zhī māo.) - It is a cat.",
+        "category": "pronoun"
+    },
+    {
+        "word": "大家",
+        "meaning": "everyone",
+        "pinyin": "dàjiā",
+        "example_sentence": "大家好！(Dàjiā hǎo!) - Hello, everyone!",
+        "category": "pronoun"
+    },
+    {
+        "word": "每",
+        "meaning": "every, each",
+        "pinyin": "měi",
+        "example_sentence": "我每天跑步。(Wǒ měitiān pǎobù.) - I run every day.",
+        "category": "adverb"
+    },
+    {
+        "word": "为什么",
+        "meaning": "why",
+        "pinyin": "wèishénme",
+        "example_sentence": "你为什么迟到？(Nǐ wèishénme chídào?) - Why are you late?",
+        "category": "question word"
+    },
+    {
+        "word": "零",
+        "meaning": "zero",
+        "pinyin": "líng",
+        "example_sentence": "温度是零度。(Wēndù shì líng dù.) - The temperature is zero degrees.",
+        "category": "number"
+    },
+    {
+        "word": "两",
+        "meaning": "two",
+        "pinyin": "liǎng",
+        "example_sentence": "我要两杯水。(Wǒ yào liǎng bēi shuǐ.) - I want two cups of water.",
+        "category": "number"
+    },
+    {
+        "word": "百",
+        "meaning": "hundred",
+        "pinyin": "bǎi",
+        "example_sentence": "这个手机一百块钱。(Zhège shǒujī yībǎi kuài qián.) - This phone costs 100 yuan.",
+        "category": "number"
+    },
+    {
+        "word": "千",
+        "meaning": "thousand",
+        "pinyin": "qiān",
+        "example_sentence": "我有一千块钱。(Wǒ yǒu yīqiān kuài qián.) - I have 1,000 yuan.",
+        "category": "number"
+    },
+    {
+        "word": "第一",
+        "meaning": "first",
+        "pinyin": "dìyī",
+        "example_sentence": "他是第一名。(Tā shì dì yī míng.) - He is in first place.",
+        "category": "number"
+    },
+    {
+        "word": "次",
+        "meaning": "times",
+        "pinyin": "cì",
+        "example_sentence": "我去过三次中国。(Wǒ qù guò sān cì Zhōngguó.) - I have been to China three times.",
+        "category": "measure word"
+    },
+    {
+        "word": "件",
+        "meaning": "piece (measure word for clothing, gifts, etc.)",
+        "pinyin": "jiàn",
+        "example_sentence": "我买了一件衣服。(Wǒ mǎi le yī jiàn yīfu.) - I bought a piece of clothing.",
+        "category": "measure word"
+    },
+    {
+        "word": "别",
+        "meaning": "do not",
+        "pinyin": "bié",
+        "example_sentence": "别说话！(Bié shuōhuà!) - Don’t talk!",
+        "category": "adverb"
+    },
+    {
+        "word": "非常",
+        "meaning": "very",
+        "pinyin": "fēicháng",
+        "example_sentence": "今天天气非常好。(Jīntiān tiānqì fēicháng hǎo.) - The weather is very good today.",
+        "category": "adverb"
+    },
+    {
+        "word": "也",
+        "meaning": "also",
+        "pinyin": "yě",
+        "example_sentence": "我也喜欢看书。(Wǒ yě xǐhuān kàn shū.) - I also like reading books.",
+        "category": "adverb"
+    },
+    {
+        "word": "还",
+        "meaning": "still",
+        "pinyin": "hái",
+        "example_sentence": "我还没吃饭。(Wǒ hái méi chī fàn.) - I haven’t eaten yet.",
+        "category": "adverb"
+    },
+    {
+        "word": "最",
+        "meaning": "the most",
+        "pinyin": "zuì",
+        "example_sentence": "这是最好的书。(Zhè shì zuì hǎo de shū.) - This is the best book.",
+        "category": "adverb"
+    },
+    {
+        "word": "真",
+        "meaning": "really",
+        "pinyin": "zhēn",
+        "example_sentence": "这个地方真美。(Zhège dìfāng zhēn měi.) - This place is really beautiful.",
+        "category": "adverb"
+    },
+    {
+        "word": "正在",
+        "meaning": "be doing (continuous tense)",
+        "pinyin": "zhèngzài",
+        "example_sentence": "我正在学习汉语。(Wǒ zhèngzài xuéxí Hànyǔ.) - I am studying Chinese.",
+        "category": "adverb"
+    },
+    {
+        "word": "已经",
+        "meaning": "already",
+        "pinyin": "yǐjīng",
+        "example_sentence": "我已经吃饭了。(Wǒ yǐjīng chī fàn le.) - I have already eaten.",
+        "category": "adverb"
+    },
+    {
+        "word": "一起",
+        "meaning": "together",
+        "pinyin": "yìqǐ",
+        "example_sentence": "我们一起去看电影吧！(Wǒmen yìqǐ qù kàn diànyǐng ba!) - Let's go watch a movie together!",
+        "category": "adverb"
+    },
+    {
+        "word": "再",
+        "meaning": "again",
+        "pinyin": "zài",
+        "example_sentence": "请再说一遍。(Qǐng zài shuō yī biàn.) - Please say it again.",
+        "category": "adverb"
+    },
+    {
+        "word": "就",
+        "meaning": "at once, then",
+        "pinyin": "jiù",
+        "example_sentence": "我一到家就吃饭。(Wǒ yī dào jiā jiù chī fàn.) - I eat as soon as I get home.",
+        "category": "adverb"
+    },
+    {
+        "word": "因为……所以……",
+        "meaning": "because…so…",
+        "pinyin": "yīnwèi...suǒyǐ…",
+        "example_sentence": "因为下雨，所以我没去。(Yīnwèi xiàyǔ, suǒyǐ wǒ méi qù.) - Because it rained, I didn’t go.",
+        "category": "conjunction"
+    },
+    {
+        "word": "虽然……但是……",
+        "meaning": "although… but…",
+        "pinyin": "suīrán…dànshì…",
+        "example_sentence": "虽然很累，但是还要工作。(Suīrán hěn lèi, dànshì hái yào gōngzuò.) - Although I am tired, I still have to work.",
+        "category": "conjunction"
+    },
+    {
+        "word": "从",
+        "meaning": "from",
+        "pinyin": "cóng",
+        "example_sentence": "我从北京来。(Wǒ cóng Běijīng lái.) - I come from Beijing.",
+        "category": "preposition"
+    },
+    {
+        "word": "比",
+        "meaning": "comparing to",
+        "pinyin": "bǐ",
+        "example_sentence": "他比我高。(Tā bǐ wǒ gāo.) - He is taller than me.",
+        "category": "preposition"
+    },
+    {
+        "word": "往",
+        "meaning": "toward, to",
+        "pinyin": "wǎng",
+        "example_sentence": "往前走。(Wǎng qián zǒu.) - Go forward.",
+        "category": "preposition"
+    },
+    {
+        "word": "离",
+        "meaning": "indicate distance",
+        "pinyin": "lí",
+        "example_sentence": "学校离我家很近。(Xuéxiào lí wǒ jiā hěn jìn.) - The school is close to my home.",
+        "category": "preposition"
+    },
+    {
+        "word": "得",
+        "meaning": "particle (used after a verb)",
+        "pinyin": "de",
+        "example_sentence": "他说得很好。(Tā shuō de hěn hǎo.) - He speaks very well.",
+        "category": "particle"
+    },
+    {
+        "word": "着",
+        "meaning": "particle (indicating ongoing action)",
+        "pinyin": "zhe",
+        "example_sentence": "他笑着说。(Tā xiàozhe shuō.) - He said while smiling.",
+        "category": "particle"
+    },
+    {
+        "word": "过",
+        "meaning": "particle (indicating past experience)",
+        "pinyin": "guò",
+        "example_sentence": "我去过中国。(Wǒ qù guò Zhōngguó.) - I have been to China.",
+        "category": "particle"
+    },
+    {
+        "word": "吧",
+        "meaning": "particle (used for suggestion or softening tone)",
+        "pinyin": "ba",
+        "example_sentence": "我们走吧！(Wǒmen zǒu ba!) - Let’s go!",
+        "category": "particle"
+    },
+    {
+        "word": "机场",
+        "meaning": "airport",
+        "pinyin": "jīchǎng",
+        "example_sentence": "我去机场接你。(Wǒ qù jīchǎng jiē nǐ.) - I will pick you up at the airport.",
+        "category": "place"
+    },
+    {
+        "word": "教室",
+        "meaning": "classroom",
+        "pinyin": "jiàoshì",
+        "example_sentence": "我们在教室上课。(Wǒmen zài jiàoshì shàngkè.) - We have class in the classroom.",
+        "category": "place"
+    },
+    {
+        "word": "房间",
+        "meaning": "room",
+        "pinyin": "fángjiān",
+        "example_sentence": "我的房间很大。(Wǒ de fángjiān hěn dà.) - My room is very big.",
+        "category": "place"
+    },
+    {
+        "word": "路",
+        "meaning": "road",
+        "pinyin": "lù",
+        "example_sentence": "这条路很长。(Zhè tiáo lù hěn cháng.) - This road is very long.",
+        "category": "place"
+    },
+    {
+        "word": "左边",
+        "meaning": "left",
+        "pinyin": "zuǒbiān",
+        "example_sentence": "银行在左边。(Yínháng zài zuǒbiān.) - The bank is on the left.",
+        "category": "direction"
+    },
+    {
+        "word": "右边",
+        "meaning": "right",
+        "pinyin": "yòubiān",
+        "example_sentence": "超市在右边。(Chāoshì zài yòubiān.) - The supermarket is on the right.",
+        "category": "direction"
+    },
+    {
+        "word": "外",
+        "meaning": "outside",
+        "pinyin": "wài",
+        "example_sentence": "我在外面等你。(Wǒ zài wàimiàn děng nǐ.) - I am waiting for you outside.",
+        "category": "direction"
+    },
+    {
+        "word": "旁边",
+        "meaning": "side",
+        "pinyin": "pángbiān",
+        "example_sentence": "他坐在我旁边。(Tā zuò zài wǒ pángbiān.) - He is sitting beside me.",
+        "category": "direction"
+    },
+    {
+        "word": "一下",
+        "meaning": "in a short while",
+        "pinyin": "yīxià",
+        "example_sentence": "请等一下。(Qǐng děng yīxià.) - Please wait a moment.",
+        "category": "adverb"
+    },
+    {
+        "word": "早上",
+        "meaning": "morning",
+        "pinyin": "zǎoshàng",
+        "example_sentence": "我早上六点起床。(Wǒ zǎoshàng liù diǎn qǐchuáng.) - I wake up at 6 in the morning.",
+        "category": "time"
+    },
+    {
+        "word": "晚上",
+        "meaning": "night",
+        "pinyin": "wǎnshàng",
+        "example_sentence": "我晚上十点睡觉。(Wǒ wǎnshàng shí diǎn shuìjiào.) - I go to bed at 10 at night.",
+        "category": "time"
+    },
+    {
+        "word": "小时",
+        "meaning": "hour",
+        "pinyin": "xiǎoshí",
+        "example_sentence": "我学了两个小时汉语。(Wǒ xué le liǎng gè xiǎoshí Hànyǔ.) - I studied Chinese for two hours.",
+        "category": "time"
+    },
+    {
+        "word": "时间",
+        "meaning": "time",
+        "pinyin": "shíjiān",
+        "example_sentence": "你有时间吗？(Nǐ yǒu shíjiān ma?) - Do you have time?",
+        "category": "time"
+    },
+    {
+        "word": "去年",
+        "meaning": "last year",
+        "pinyin": "qùnián",
+        "example_sentence": "我去年去了中国。(Wǒ qùnián qù le Zhōngguó.) - I went to China last year.",
+        "category": "time"
+    },
+    {
+        "word": "日",
+        "meaning": "date",
+        "pinyin": "rì",
+        "example_sentence": "今天是三月五日。(Jīntiān shì sān yuè wǔ rì.) - Today is March 5th.",
+        "category": "time"
+    },
+    {
+        "word": "生日",
+        "meaning": "birthday",
+        "pinyin": "shēngrì",
+        "example_sentence": "我的生日是八月十五日。(Wǒ de shēngrì shì bā yuè shíwǔ rì.) - My birthday is August 15th.",
+        "category": "time"
+    },
+    {
+        "word": "哥哥",
+        "meaning": "older brother",
+        "pinyin": "gēge",
+        "example_sentence": "我哥哥是医生。(Wǒ gēge shì yīshēng.) - My older brother is a doctor.",
+        "category": "family"
+    },
+    {
+        "word": "姐姐",
+        "meaning": "older sister",
+        "pinyin": "jiějie",
+        "example_sentence": "我姐姐比我大三岁。(Wǒ jiějie bǐ wǒ dà sān suì.) - My older sister is three years older than me.",
+        "category": "family"
+    },
+    {
+        "word": "弟弟",
+        "meaning": "younger brother",
+        "pinyin": "dìdi",
+        "example_sentence": "我弟弟很聪明。(Wǒ dìdi hěn cōngmíng.) - My younger brother is very smart.",
+        "category": "family"
+    },
+    {
+        "word": "妹妹",
+        "meaning": "younger sister",
+        "pinyin": "mèimei",
+        "example_sentence": "我妹妹喜欢唱歌。(Wǒ mèimei xǐhuan chànggē.) - My younger sister likes singing.",
+        "category": "family"
+    },
+    {
+        "word": "丈夫",
+        "meaning": "husband",
+        "pinyin": "zhàngfu",
+        "example_sentence": "她的丈夫是老师。(Tā de zhàngfu shì lǎoshī.) - Her husband is a teacher.",
+        "category": "family"
+    },
+    {
+        "word": "妻子",
+        "meaning": "wife",
+        "pinyin": "qīzi",
+        "example_sentence": "他的妻子很漂亮。(Tā de qīzi hěn piàoliang.) - His wife is very beautiful.",
+        "category": "family"
+    },
+    {
+        "word": "孩子",
+        "meaning": "child",
+        "pinyin": "háizi",
+        "example_sentence": "这个孩子很可爱。(Zhège háizi hěn kě’ài.) - This child is very cute.",
+        "category": "family"
+    },
+    {
+        "word": "男人",
+        "meaning": "man",
+        "pinyin": "nánrén",
+        "example_sentence": "那个男人是我的朋友。(Nàge nánrén shì wǒ de péngyǒu.) - That man is my friend.",
+        "category": "people"
+    },
+    {
+        "word": "女人",
+        "meaning": "woman",
+        "pinyin": "nǚrén",
+        "example_sentence": "那个女人很聪明。(Nàge nǚrén hěn cōngmíng.) - That woman is very smart.",
+        "category": "people"
+    },
+    {
+        "word": "服务员",
+        "meaning": "waiter",
+        "pinyin": "fúwùyuán",
+        "example_sentence": "请叫服务员。(Qǐng jiào fúwùyuán.) - Please call the waiter.",
+        "category": "occupation"
+    },
+    {
+        "word": "鱼",
+        "meaning": "fish",
+        "pinyin": "yú",
+        "example_sentence": "我喜欢吃鱼。(Wǒ xǐhuan chī yú.) - I like to eat fish.",
+        "category": "food"
+    },
+    {
+        "word": "羊肉",
+        "meaning": "mutton",
+        "pinyin": "yángròu",
+        "example_sentence": "羊肉很好吃。(Yángròu hěn hǎochī.) - Mutton is very delicious.",
+        "category": "food"
+    },
+    {
+        "word": "牛奶",
+        "meaning": "milk",
+        "pinyin": "niúnǎi",
+        "example_sentence": "我每天喝牛奶。(Wǒ měitiān hē niúnǎi.) - I drink milk every day.",
+        "category": "food"
+    },
+    {
+        "word": "鸡蛋",
+        "meaning": "egg",
+        "pinyin": "jīdàn",
+        "example_sentence": "早餐吃鸡蛋很好。(Zǎocān chī jīdàn hěn hǎo.) - Eating eggs for breakfast is good.",
+        "category": "food"
+    },
+    {
+        "word": "西瓜",
+        "meaning": "watermelon",
+        "pinyin": "xīguā",
+        "example_sentence": "夏天吃西瓜很爽。(Xiàtiān chī xīguā hěn shuǎng.) - Eating watermelon in summer is refreshing.",
+        "category": "food"
+    },
+    {
+        "word": "咖啡",
+        "meaning": "coffee",
+        "pinyin": "kāfēi",
+        "example_sentence": "我每天早上喝一杯咖啡。(Wǒ měitiān zǎoshàng hē yī bēi kāfēi.) - I drink a cup of coffee every morning.",
+        "category": "food"
+    },
+    {
+        "word": "雪",
+        "meaning": "snow",
+        "pinyin": "xuě",
+        "example_sentence": "冬天经常下雪。(Dōngtiān jīngcháng xià xuě.) - It often snows in winter.",
+        "category": "weather"
+    },
+    {
+        "word": "药",
+        "meaning": "medicine",
+        "pinyin": "yào",
+        "example_sentence": "我需要吃药。(Wǒ xūyào chī yào.) - I need to take medicine.",
+        "category": "health"
+    },
+    {
+        "word": "手机",
+        "meaning": "cellphone",
+        "pinyin": "shǒujī",
+        "example_sentence": "我忘记带手机了。(Wǒ wàngjì dài shǒujī le.) - I forgot to bring my cellphone.",
+        "category": "objects"
+    },
+    {
+        "word": "手表",
+        "meaning": "watch",
+        "pinyin": "shǒubiǎo",
+        "example_sentence": "我喜欢戴手表。(Wǒ xǐhuān dài shǒubiǎo.) - I like to wear a watch.",
+        "category": "objects"
+    },
+    {
+        "word": "眼睛",
+        "meaning": "eye",
+        "pinyin": "yǎnjīng",
+        "example_sentence": "我的眼睛很大。(Wǒ de yǎnjīng hěn dà.) - My eyes are very big.",
+        "category": "body"
+    },
+    {
+        "word": "身体",
+        "meaning": "body",
+        "pinyin": "shēntǐ",
+        "example_sentence": "我每天锻炼身体。(Wǒ měitiān duànliàn shēntǐ.) - I exercise every day.",
+        "category": "body"
+    },
+    {
+        "word": "公共汽车",
+        "meaning": "bus",
+        "pinyin": "gōnggòngqìchē",
+        "example_sentence": "我坐公共汽车上班。(Wǒ zuò gōnggòngqìchē shàngbān.) - I take the bus to work.",
+        "category": "transportation"
+    },
+    {
+        "word": "报纸",
+        "meaning": "newspaper",
+        "pinyin": "bàozhǐ",
+        "example_sentence": "我每天都看报纸。(Wǒ měitiān dōu kàn bàozhǐ.) - I read the newspaper every day.",
+        "category": "objects"
+    },
+    {
+        "word": "门",
+        "meaning": "door",
+        "pinyin": "mén",
+        "example_sentence": "门没关好。(Mén méi guān hǎo.) - The door is not closed properly.",
+        "category": "objects"
+    },
+    {
+        "word": "题",
+        "meaning": "topic, item",
+        "pinyin": "tí",
+        "example_sentence": "这道题我做不出来。(Zhè dào tí wǒ zuò bù chūlái.) - I can’t solve this problem.",
+        "category": "education"
+    },
+    {
+        "word": "课",
+        "meaning": "lesson",
+        "pinyin": "kè",
+        "example_sentence": "今天有三节课。(Jīntiān yǒu sān jié kè.) - There are three lessons today.",
+        "category": "education"
+    },
+    {
+        "word": "姓",
+        "meaning": "surname",
+        "pinyin": "xìng",
+        "example_sentence": "你姓什么？(Nǐ xìng shénme?) - What’s your surname?",
+        "category": "personal"
+    },
+    {
+        "word": "问题",
+        "meaning": "question",
+        "pinyin": "wèntí",
+        "example_sentence": "这个问题很难。(Zhège wèntí hěn nán.) - This question is difficult.",
+        "category": "education"
+    },
+    {
+        "word": "事情",
+        "meaning": "matter, thing",
+        "pinyin": "shìqing",
+        "example_sentence": "我有一些事情要做。(Wǒ yǒu yīxiē shìqing yào zuò.) - I have some things to do.",
+        "category": "general"
+    },
+    {
+        "word": "考试",
+        "meaning": "exam",
+        "pinyin": "kǎoshì",
+        "example_sentence": "我下周有一个考试。(Wǒ xià zhōu yǒu yī gè kǎoshì.) - I have an exam next week.",
+        "category": "education"
+    },
+    {
+        "word": "票",
+        "meaning": "ticket",
+        "pinyin": "piào",
+        "example_sentence": "我买了两张电影票。(Wǒ mǎi le liǎng zhāng diànyǐng piào.) - I bought two movie tickets.",
+        "category": "objects"
+    },
+    {
+        "word": "意思",
+        "meaning": "meaning",
+        "pinyin": "yìsi",
+        "example_sentence": "你知道这句话的意思吗？(Nǐ zhīdào zhè jù huà de yìsi ma?) - Do you know the meaning of this sentence?",
+        "category": "general"
+    },
+    {
+        "word": "颜色",
+        "meaning": "color",
+        "pinyin": "yánsè",
+        "example_sentence": "我喜欢蓝色的颜色。(Wǒ xǐhuān lán sè de yánsè.) - I like the color blue.",
+        "category": "general"
+    },
+    {
+        "word": "铅笔",
+        "meaning": "pencil",
+        "pinyin": "qiánbǐ",
+        "example_sentence": "我需要一支铅笔。(Wǒ xūyào yī zhī qiánbǐ.) - I need a pencil.",
+        "category": "objects"
+    },
+    {
+        "word": "面条",
+        "meaning": "noodle",
+        "pinyin": "miàntiáo",
+        "example_sentence": "我喜欢吃炸酱面。(Wǒ xǐhuān chī zhàjiàng miàn.) - I like to eat fried sauce noodles.",
+        "category": "food"
+    },
+    {
+        "word": "火车站",
+        "meaning": "train station",
+        "pinyin": "huǒchēzhàn",
+        "example_sentence": "我在火车站等你。(Wǒ zài huǒchēzhàn děng nǐ.) - I am waiting for you at the train station.",
+        "category": "transportation"
+    },
+    {
+        "word": "公司",
+        "meaning": "company",
+        "pinyin": "gōngsī",
+        "example_sentence": "我在一家大公司工作。(Wǒ zài yījiā dà gōngsī gōngzuò.) - I work at a big company.",
+        "category": "business"
+    },
+    {
+        "word": "宾馆",
+        "meaning": "hotel",
+        "pinyin": "bīngguǎn",
+        "example_sentence": "我们住在一个很好的宾馆。(Wǒmen zhù zài yī gè hěn hǎo de bīnguǎn.) - We stayed in a very nice hotel.",
+        "category": "places"
+    },
+    {
+        "word": "说话",
+        "meaning": "talk",
+        "pinyin": "shuōhuà",
+        "example_sentence": "他喜欢说话。(Tā xǐhuān shuōhuà.) - He likes to talk.",
+        "category": "action"
+    },
+    {
+        "word": "卖",
+        "meaning": "sell",
+        "pinyin": "mài",
+        "example_sentence": "他在市场上卖水果。(Tā zài shìchǎng shàng mài shuǐguǒ.) - He sells fruit at the market.",
+        "category": "action"
+    },
+    {
+        "word": "问",
+        "meaning": "ask",
+        "pinyin": "wèn",
+        "example_sentence": "我可以问你一个问题吗？(Wǒ kěyǐ wèn nǐ yī gè wèntí ma?) - Can I ask you a question?",
+        "category": "action"
+    },
+    {
+        "word": "走",
+        "meaning": "walk",
+        "pinyin": "zǒu",
+        "example_sentence": "我们一起去走路吧。(Wǒmen yīqǐ qù zǒulù ba.) - Let’s go for a walk together.",
+        "category": "action"
+    },
+    {
+        "word": "进",
+        "meaning": "enter",
+        "pinyin": "jìn",
+        "example_sentence": "他进了房间。(Tā jìn le fángjiān.) - He entered the room.",
+        "category": "action"
+    },
+    {
+        "word": "出",
+        "meaning": "come out",
+        "pinyin": "chū",
+        "example_sentence": "我从办公室出来了。(Wǒ cóng bàngōngshì chū lái le.) - I came out of the office.",
+        "category": "action"
+    },
+    {
+        "word": "跑步",
+        "meaning": "run",
+        "pinyin": "pǎobù",
+        "example_sentence": "我每天跑步锻炼。(Wǒ měitiān pǎobù duànliàn.) - I run every day for exercise.",
+        "category": "action"
+    },
+    {
+        "word": "到",
+        "meaning": "arrive",
+        "pinyin": "dào",
+        "example_sentence": "我们快要到目的地了。(Wǒmen kuài yào dào mùdìdì le.) - We are about to arrive at the destination.",
+        "category": "action"
+    },
+    {
+        "word": "穿",
+        "meaning": "wear",
+        "pinyin": "chuān",
+        "example_sentence": "今天我穿了蓝色的衣服。(Jīntiān wǒ chuān le lán sè de yīfú.) - I wore blue clothes today.",
+        "category": "action"
+    },
+    {
+        "word": "洗",
+        "meaning": "wash",
+        "pinyin": "xǐ",
+        "example_sentence": "我每天洗脸。(Wǒ měitiān xǐ liǎn.) - I wash my face every day.",
+        "category": "action"
+    },
+    {
+        "word": "给",
+        "meaning": "give",
+        "pinyin": "gěi",
+        "example_sentence": "我给了她一本书。(Wǒ gěi le tā yī běn shū.) - I gave her a book.",
+        "category": "action"
+    },
+    {
+        "word": "找",
+        "meaning": "find",
+        "pinyin": "zhǎo",
+        "example_sentence": "我找到了我的手机。(Wǒ zhǎodào le wǒ de shǒujī.) - I found my cellphone.",
+        "category": "action"
+    },
+    {
+        "word": "懂",
+        "meaning": "understand",
+        "pinyin": "dǒng",
+        "example_sentence": "你懂这个问题吗？(Nǐ dǒng zhège wèntí ma?) - Do you understand this question?",
+        "category": "action"
+    },
+    {
+        "word": "笑",
+        "meaning": "smile",
+        "pinyin": "xiào",
+        "example_sentence": "她笑得很开心。(Tā xiào de hěn kāixīn.) - She smiled happily.",
+        "category": "emotion"
+    },
+    {
+        "word": "告诉",
+        "meaning": "tell",
+        "pinyin": "gàosù",
+        "example_sentence": "我会告诉你答案。(Wǒ huì gàosù nǐ dá’àn.) - I will tell you the answer.",
+        "category": "action"
+    },
+    {
+        "word": "准备",
+        "meaning": "prepare",
+        "pinyin": "zhǔnbèi",
+        "example_sentence": "我们准备好了。(Wǒmen zhǔnbèi hǎo le.) - We are ready.",
+        "category": "action"
+    },
+    {
+        "word": "开始",
+        "meaning": "begin",
+        "pinyin": "kāishǐ",
+        "example_sentence": "我们可以开始了。(Wǒmen kěyǐ kāishǐ le.) - We can begin now.",
+        "category": "action"
+    },
+    {
+        "word": "介绍",
+        "meaning": "introduce",
+        "pinyin": "jièshào",
+        "example_sentence": "让我介绍一下我的朋友。(Ràng wǒ jièshào yīxià wǒ de péngyǒu.) - Let me introduce my friend.",
+        "category": "action"
+    },
+    {
+        "word": "帮助",
+        "meaning": "help",
+        "pinyin": "bāngzhù",
+        "example_sentence": "他帮了我很多忙。(Tā bāng le wǒ hěn duō máng.) - He helped me a lot.",
+        "category": "action"
+    },
+    {
+        "word": "玩",
+        "meaning": "play",
+        "pinyin": "wán",
+        "example_sentence": "我喜欢和朋友一起玩。(Wǒ xǐhuān hé péngyǒu yīqǐ wán.) - I like to play with my friends.",
+        "category": "action"
+    },
+    {
+        "word": "送",
+        "meaning": "present",
+        "pinyin": "sòng",
+        "example_sentence": "我送给她一个生日礼物。(Wǒ sòng gěi tā yī gè shēngrì lǐwù.) - I gave her a birthday present.",
+        "category": "action"
+    },
+    {
+        "word": "等",
+        "meaning": "wait",
+        "pinyin": "děng",
+        "example_sentence": "我在这里等你。(Wǒ zài zhèlǐ děng nǐ.) - I am waiting for you here.",
+        "category": "action"
+    },
+    {
+        "word": "让",
+        "meaning": "let",
+        "pinyin": "ràng",
+        "example_sentence": "请让我帮你。(Qǐng ràng wǒ bāng nǐ.) - Please let me help you.",
+        "category": "action"
+    },
+    {
+        "word": "起床",
+        "meaning": "get up",
+        "pinyin": "qǐchuáng",
+        "example_sentence": "我早上七点起床。(Wǒ zǎoshàng qī diǎn qǐchuáng.) - I get up at 7 in the morning.",
+        "category": "action"
+    },
+    {
+        "word": "唱歌",
+        "meaning": "sing",
+        "pinyin": "chànggē",
+        "example_sentence": "她喜欢唱歌。(Tā xǐhuān chànggē.) - She likes to sing.",
+        "category": "action"
+    },
+    {
+        "word": "跳舞",
+        "meaning": "dance",
+        "pinyin": "tiàowǔ",
+        "example_sentence": "我们一起跳舞吧。(Wǒmen yīqǐ tiàowǔ ba.) - Let's dance together.",
+        "category": "action"
+    },
+    {
+        "word": "旅游",
+        "meaning": "travel",
+        "pinyin": "lǚyóu",
+        "example_sentence": "我喜欢旅游。(Wǒ xǐhuān lǚyóu.) - I like to travel.",
+        "category": "action"
+    },
+    {
+        "word": "上班",
+        "meaning": "be on duty",
+        "pinyin": "shàngbān",
+        "example_sentence": "他每天早上八点上班。(Tā měitiān zǎoshàng bā diǎn shàngbān.) - He goes to work at 8 AM every day.",
+        "category": "action"
+    },
+    {
+        "word": "生病",
+        "meaning": "get ill, get sick",
+        "pinyin": "shēngbìng",
+        "example_sentence": "她生病了。(Tā shēngbìng le.) - She got sick.",
+        "category": "action"
+    },
+    {
+        "word": "休息",
+        "meaning": "rest",
+        "pinyin": "xiūxi",
+        "example_sentence": "我需要休息。(Wǒ xūyào xiūxi.) - I need to rest.",
+        "category": "action"
+    },
+    {
+        "word": "运动",
+        "meaning": "exercise",
+        "pinyin": "yùndòng",
+        "example_sentence": "每天做运动有益健康。(Měitiān zuò yùndòng yǒuyì jiànkāng.) - Exercising every day is good for your health.",
+        "category": "action"
+    },
+    {
+        "word": "游泳",
+        "meaning": "swim",
+        "pinyin": "yóuyǒng",
+        "example_sentence": "我喜欢游泳。(Wǒ xǐhuān yóuyǒng.) - I like to swim.",
+        "category": "action"
+    },
+    {
+        "word": "踢足球",
+        "meaning": "play football",
+        "pinyin": "tīzúqiú",
+        "example_sentence": "我们每周踢足球。(Wǒmen měi zhōu tī zúqiú.) - We play football every week.",
+        "category": "action"
+    },
+    {
+        "word": "打篮球",
+        "meaning": "play basketball",
+        "pinyin": "dǎlánqiú",
+        "example_sentence": "他喜欢打篮球。(Tā xǐhuān dǎ lánqiú.) - He likes to play basketball.",
+        "category": "action"
+    },
+    {
+        "word": "完",
+        "meaning": "finish",
+        "pinyin": "wán",
+        "example_sentence": "我做完作业了。(Wǒ zuò wán zuòyè le.) - I finished my homework.",
+        "category": "action"
+    },
+    {
+        "word": "觉得",
+        "meaning": "think",
+        "pinyin": "juédé",
+        "example_sentence": "我觉得今天很冷。(Wǒ juédé jīntiān hěn lěng.) - I think it is very cold today.",
+        "category": "emotion"
+    },
+    {
+        "word": "知道",
+        "meaning": "know",
+        "pinyin": "zhīdao",
+        "example_sentence": "你知道这个消息吗？(Nǐ zhīdào zhège xiāoxi ma?) - Do you know this news?",
+        "category": "action"
+    },
+    {
+        "word": "希望",
+        "meaning": "hope",
+        "pinyin": "xīwàng",
+        "example_sentence": "我希望明天不下雨。(Wǒ xīwàng míngtiān bù xià yǔ.) - I hope it doesn’t rain tomorrow.",
+        "category": "emotion"
+    },
+    {
+        "word": "可以",
+        "meaning": "can",
+        "pinyin": "kěyǐ",
+        "example_sentence": "我可以帮你吗？(Wǒ kěyǐ bāng nǐ ma?) - Can I help you?",
+        "category": "action"
+    },
+    {
+        "word": "要",
+        "meaning": "want",
+        "pinyin": "yào",
+        "example_sentence": "我想要一个苹果。(Wǒ xiǎng yào yī gè píngguǒ.) - I want an apple.",
+        "category": "emotion"
+    },
+    {
+        "word": "可能",
+        "meaning": "may",
+        "pinyin": "kěnéng",
+        "example_sentence": "他可能不来。(Tā kěnéng bù lái.) - He may not come.",
+        "category": "emotion"
+    },
+    {
+        "word": "高",
+        "meaning": "tall",
+        "pinyin": "gāo",
+        "example_sentence": "他很高。(Tā hěn gāo.) - He is very tall.",
+        "category": "descriptive"
+    },
+    {
+        "word": "红",
+        "meaning": "red",
+        "pinyin": "hóng",
+        "example_sentence": "这件衣服是红色的。(Zhè jiàn yīfú shì hóngsè de.) - This shirt is red.",
+        "category": "color"
+    },
+    {
+        "word": "白",
+        "meaning": "white",
+        "pinyin": "bái",
+        "example_sentence": "白色的墙壁很干净。(Báisè de qiángbì hěn gānjìng.) - The white walls are very clean.",
+        "category": "color"
+    },
+    {
+        "word": "黑",
+        "meaning": "black",
+        "pinyin": "hēi",
+        "example_sentence": "他的鞋子是黑色的。(Tā de xiézi shì hēisè de.) - His shoes are black.",
+        "category": "color"
+    },
+    {
+        "word": "忙",
+        "meaning": "busy",
+        "pinyin": "máng",
+        "example_sentence": "我今天很忙。(Wǒ jīntiān hěn máng.) - I am very busy today.",
+        "category": "descriptive"
+    },
+    {
+        "word": "快",
+        "meaning": "fast",
+        "pinyin": "kuài",
+        "example_sentence": "这辆车开得很快。(Zhè liàng chē kāi de hěn kuài.) - This car drives very fast.",
+        "category": "descriptive"
+    },
+    {
+        "word": "慢",
+        "meaning": "slow",
+        "pinyin": "màn",
+        "example_sentence": "请开慢一点。(Qǐng kāi màn yīdiǎn.) - Please drive a little slower.",
+        "category": "descriptive"
+    },
+    {
+        "word": "远",
+        "meaning": "far",
+        "pinyin": "yuǎn",
+        "example_sentence": "我的家离学校很远。(Wǒ de jiā lí xuéxiào hěn yuǎn.) - My home is far from school.",
+        "category": "descriptive"
+    },
+    {
+        "word": "近",
+        "meaning": "close",
+        "pinyin": "jìn",
+        "example_sentence": "学校离我家很近。(Xuéxiào lí wǒ jiā hěn jìn.) - The school is close to my home.",
+        "category": "descriptive"
+    },
+    {
+        "word": "好吃",
+        "meaning": "delicious",
+        "pinyin": "hǎochī",
+        "example_sentence": "这道菜很好吃。(Zhè dào cài hěn hǎochī.) - This dish is delicious.",
+        "category": "descriptive"
+    },
+    {
+        "word": "累",
+        "meaning": "tired",
+        "pinyin": "lèi",
+        "example_sentence": "我今天工作很累。(Wǒ jīntiān gōngzuò hěn lèi.) - I am very tired from work today.",
+        "category": "descriptive"
+    },
+    {
+        "word": "长",
+        "meaning": "long",
+        "pinyin": "cháng",
+        "example_sentence": "这条路很长。(Zhè tiáo lù hěn cháng.) - This road is long.",
+        "category": "descriptive"
+    },
+    {
+        "word": "新",
+        "meaning": "new",
+        "pinyin": "xīn",
+        "example_sentence": "我买了一部新手机。(Wǒ mǎi le yī bù xīn shǒujī.) - I bought a new cellphone.",
+        "category": "descriptive"
+    },
+    {
+        "word": "贵",
+        "meaning": "expensive",
+        "pinyin": "guì",
+        "example_sentence": "这件衣服很贵。(Zhè jiàn yīfú hěn guì.) - This piece of clothing is expensive.",
+        "category": "descriptive"
+    },
+    {
+        "word": "便宜",
+        "meaning": "cheap",
+        "pinyin": "piányi",
+        "example_sentence": "这本书很便宜。(Zhè běn shū hěn piányi.) - This book is cheap.",
+        "category": "descriptive"
+    },
+    {
+        "word": "晴",
+        "meaning": "fine",
+        "pinyin": "qíng",
+        "example_sentence": "今天的天气很晴。(Jīntiān de tiānqì hěn qíng.) - The weather is fine today.",
+        "category": "weather"
+    },
+    {
+        "word": "阴",
+        "meaning": "cloudy",
+        "pinyin": "yīn",
+        "example_sentence": "今天是阴天。(Jīntiān shì yīn tiān.) - It is cloudy today.",
+        "category": "weather"
+    },
+    {
+        "word": "错",
+        "meaning": "wrong",
+        "pinyin": "cuò",
+        "example_sentence": "你的答案错了。(Nǐ de dá’àn cuò le.) - Your answer is wrong.",
+        "category": "descriptive"
+    },
+    {
+        "word": "快乐",
+        "meaning": "happy",
+        "pinyin": "kuàilè",
+        "example_sentence": "我很快乐。(Wǒ hěn kuàilè.) - I am happy.",
+        "category": "emotion"
+    },
+    {
+        "word": "对",
+        "meaning": "to",
+        "pinyin": "duì",
+        "example_sentence": "我对他有信心。(Wǒ duì tā yǒu xìnxīn.) - I have confidence in him.",
+        "category": "preposition"
+    },
+    {
+        "word": "对",
+        "meaning": "right",
+        "pinyin": "duì",
+        "example_sentence": "你答对了。(Nǐ dá duì le.) - You answered correctly.",
+        "category": "descriptive"
+    }
+]

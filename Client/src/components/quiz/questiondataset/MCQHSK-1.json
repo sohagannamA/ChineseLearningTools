@@ -1,0 +1,652 @@
+[
+    {
+        "id": 1,
+        "question": "What does '我' (wǒ) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "You"
+            },
+            {
+                "option": "B",
+                "answer": "I, me"
+            },
+            {
+                "option": "C",
+                "answer": "He"
+            },
+            {
+                "option": "D",
+                "answer": "She"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'我' (wǒ) means 'I, me'.",
+        "group": "mcq"
+    },
+    {
+        "id": 2,
+        "question": "How do you say 'we, us' in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "我们 (wǒmen)"
+            },
+            {
+                "option": "B",
+                "answer": "你 (nǐ)"
+            },
+            {
+                "option": "C",
+                "answer": "他 (tā)"
+            },
+            {
+                "option": "D",
+                "answer": "这 (zhè)"
+            }
+        ],
+        "correct_answer": "A",
+        "category": "pronoun",
+        "explanation": "我们 (wǒmen) means 'we, us'.",
+        "group": "mcq"
+    },
+    {
+        "id": 3,
+        "question": "What is the meaning of '他' (tā)?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "I"
+            },
+            {
+                "option": "B",
+                "answer": "You"
+            },
+            {
+                "option": "C",
+                "answer": "He, him"
+            },
+            {
+                "option": "D",
+                "answer": "They"
+            }
+        ],
+        "correct_answer": "C",
+        "category": "pronoun",
+        "explanation": "'他' (tā) means 'he, him'.",
+        "group": "mcq"
+    },
+    {
+        "id": 4,
+        "question": "Which of the following means 'what'?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "什么 (shénme)"
+            },
+            {
+                "option": "B",
+                "answer": "哪 (nǎ)"
+            },
+            {
+                "option": "C",
+                "answer": "谁 (shéi)"
+            },
+            {
+                "option": "D",
+                "answer": "哪里 (nǎlǐ)"
+            }
+        ],
+        "correct_answer": "A",
+        "category": "pronoun",
+        "explanation": "'什么' (shénme) means 'what'.",
+        "group": "mcq"
+    },
+    {
+        "id": 5,
+        "question": "How do you ask 'Where are you going?' in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "你喜欢哪儿？ (Nǐ xǐhuān nǎr?)"
+            },
+            {
+                "option": "B",
+                "answer": "你去哪儿？ (Nǐ qù nǎr?)"
+            },
+            {
+                "option": "C",
+                "answer": "你吃什么？ (Nǐ chī shénme?)"
+            },
+            {
+                "option": "D",
+                "answer": "你住在哪儿？ (Nǐ zhù zài nǎr?)"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'你去哪儿？' (Nǐ qù nǎr?) means 'Where are you going?'",
+        "group": "mcq"
+    },
+    {
+        "id": 6,
+        "question": "What is the meaning of '多少' (duōshǎo)?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "How many, how much"
+            },
+            {
+                "option": "B",
+                "answer": "Where"
+            },
+            {
+                "option": "C",
+                "answer": "What"
+            },
+            {
+                "option": "D",
+                "answer": "Who"
+            }
+        ],
+        "correct_answer": "A",
+        "category": "pronoun",
+        "explanation": "'多少' (duōshǎo) means 'how many, how much'.",
+        "group": "mcq"
+    },
+    {
+        "id": 7,
+        "question": "What does '哪儿' (nǎr) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "How"
+            },
+            {
+                "option": "B",
+                "answer": "Where"
+            },
+            {
+                "option": "C",
+                "answer": "Which"
+            },
+            {
+                "option": "D",
+                "answer": "What"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'哪儿' (nǎr) means 'where'.",
+        "group": "mcq"
+    },
+    {
+        "id": 8,
+        "question": "How do you say 'who' in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "什么 (shénme)"
+            },
+            {
+                "option": "B",
+                "answer": "谁 (shéi)"
+            },
+            {
+                "option": "C",
+                "answer": "多少 (duōshǎo)"
+            },
+            {
+                "option": "D",
+                "answer": "哪 (nǎ)"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'谁' (shéi) means 'who'.",
+        "group": "mcq"
+    },
+    {
+        "id": 9,
+        "question": "Which word means 'this' in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "那 (nà)"
+            },
+            {
+                "option": "B",
+                "answer": "这 (zhè)"
+            },
+            {
+                "option": "C",
+                "answer": "谁 (shéi)"
+            },
+            {
+                "option": "D",
+                "answer": "什么 (shénme)"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'这' (zhè) means 'this'.",
+        "group": "mcq"
+    },
+    {
+        "id": 10,
+        "question": "What does '那' (nà) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "That"
+            },
+            {
+                "option": "B",
+                "answer": "This"
+            },
+            {
+                "option": "C",
+                "answer": "Which"
+            },
+            {
+                "option": "D",
+                "answer": "Who"
+            }
+        ],
+        "correct_answer": "A",
+        "category": "pronoun",
+        "explanation": "'那' (nà) means 'that'.",
+        "group": "mcq"
+    },
+    {
+        "id": 11,
+        "question": "How do you say 'which' in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "谁 (shéi)"
+            },
+            {
+                "option": "B",
+                "answer": "哪 (nǎ)"
+            },
+            {
+                "option": "C",
+                "answer": "那 (nà)"
+            },
+            {
+                "option": "D",
+                "answer": "这 (zhè)"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'哪' (nǎ) means 'which'.",
+        "group": "mcq"
+    },
+    {
+        "id": 12,
+        "question": "What is the meaning of '你' (nǐ)?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "I, me"
+            },
+            {
+                "option": "B",
+                "answer": "You"
+            },
+            {
+                "option": "C",
+                "answer": "He, him"
+            },
+            {
+                "option": "D",
+                "answer": "They"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'你' (nǐ) means 'you'.",
+        "group": "mcq"
+    },
+    {
+        "id": 13,
+        "question": "How do you say 'they, them' for a group of males or mixed gender in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "他们 (tāmen)"
+            },
+            {
+                "option": "B",
+                "answer": "她们 (tāmen)"
+            },
+            {
+                "option": "C",
+                "answer": "我们 (wǒmen)"
+            },
+            {
+                "option": "D",
+                "answer": "你们 (nǐmen)"
+            }
+        ],
+        "correct_answer": "A",
+        "category": "pronoun",
+        "explanation": "'他们' (tāmen) means 'they, them' for a group of males or mixed gender.",
+        "group": "mcq"
+    },
+    {
+        "id": 14,
+        "question": "Which pronoun is used for 'she, her' in Chinese?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "我 (wǒ)"
+            },
+            {
+                "option": "B",
+                "answer": "你 (nǐ)"
+            },
+            {
+                "option": "C",
+                "answer": "他 (tā)"
+            },
+            {
+                "option": "D",
+                "answer": "她 (tā)"
+            }
+        ],
+        "correct_answer": "D",
+        "category": "pronoun",
+        "explanation": "'她' (tā) means 'she, her'.",
+        "group": "mcq"
+    },
+    {
+        "id": 15,
+        "question": "What does '你们' (nǐmen) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "You (singular)"
+            },
+            {
+                "option": "B",
+                "answer": "You (plural)"
+            },
+            {
+                "option": "C",
+                "answer": "They"
+            },
+            {
+                "option": "D",
+                "answer": "We"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "pronoun",
+        "explanation": "'你们' (nǐmen) means 'you (plural)'.",
+        "group": "mcq"
+    },
+    {
+        "id": 16,
+        "question": "What does '一' (yī) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Two"
+            },
+            {
+                "option": "B",
+                "answer": "One"
+            },
+            {
+                "option": "C",
+                "answer": "Three"
+            },
+            {
+                "option": "D",
+                "answer": "Four"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "numeral",
+        "explanation": "'一' (yī) means 'one'.",
+        "group": "mcq"
+    },
+    {
+        "id": 17,
+        "question": "What does '二' (èr) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Three"
+            },
+            {
+                "option": "B",
+                "answer": "Four"
+            },
+            {
+                "option": "C",
+                "answer": "Two"
+            },
+            {
+                "option": "D",
+                "answer": "One"
+            }
+        ],
+        "correct_answer": "C",
+        "category": "numeral",
+        "explanation": "'二' (èr) means 'two'.",
+        "group": "mcq"
+    },
+    {
+        "id": 18,
+        "question": "What does '三' (sān) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Five"
+            },
+            {
+                "option": "B",
+                "answer": "Three"
+            },
+            {
+                "option": "C",
+                "answer": "Six"
+            },
+            {
+                "option": "D",
+                "answer": "One"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "numeral",
+        "explanation": "'三' (sān) means 'three'.",
+        "group": "mcq"
+    },
+    {
+        "id": 19,
+        "question": "What does '四' (sì) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Two"
+            },
+            {
+                "option": "B",
+                "answer": "Four"
+            },
+            {
+                "option": "C",
+                "answer": "One"
+            },
+            {
+                "option": "D",
+                "answer": "Five"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "numeral",
+        "explanation": "'四' (sì) means 'four'.",
+        "group": "mcq"
+    },
+    {
+        "id": 20,
+        "question": "What does '五' (wǔ) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Six"
+            },
+            {
+                "option": "B",
+                "answer": "Five"
+            },
+            {
+                "option": "C",
+                "answer": "Seven"
+            },
+            {
+                "option": "D",
+                "answer": "Eight"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "numeral",
+        "explanation": "'五' (wǔ) means 'five'.",
+        "group": "mcq"
+    },
+    {
+        "id": 21,
+        "question": "What does '六' (liù) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Four"
+            },
+            {
+                "option": "B",
+                "answer": "Five"
+            },
+            {
+                "option": "C",
+                "answer": "Six"
+            },
+            {
+                "option": "D",
+                "answer": "Three"
+            }
+        ],
+        "correct_answer": "C",
+        "category": "numeral",
+        "explanation": "'六' (liù) means 'six'.",
+        "group": "mcq"
+    },
+    {
+        "id": 22,
+        "question": "What does '七' (qī) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Seven"
+            },
+            {
+                "option": "B",
+                "answer": "Eight"
+            },
+            {
+                "option": "C",
+                "answer": "Nine"
+            },
+            {
+                "option": "D",
+                "answer": "Ten"
+            }
+        ],
+        "correct_answer": "A",
+        "category": "numeral",
+        "explanation": "'七' (qī) means 'seven'.",
+        "group": "mcq"
+    },
+    {
+        "id": 23,
+        "question": "What does '八' (bā) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Nine"
+            },
+            {
+                "option": "B",
+                "answer": "Ten"
+            },
+            {
+                "option": "C",
+                "answer": "Seven"
+            },
+            {
+                "option": "D",
+                "answer": "Eight"
+            }
+        ],
+        "correct_answer": "D",
+        "category": "numeral",
+        "explanation": "'八' (bā) means 'eight'.",
+        "group": "mcq"
+    },
+    {
+        "id": 24,
+        "question": "What does '九' (jiǔ) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Seven"
+            },
+            {
+                "option": "B",
+                "answer": "Nine"
+            },
+            {
+                "option": "C",
+                "answer": "Ten"
+            },
+            {
+                "option": "D",
+                "answer": "Eight"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "numeral",
+        "explanation": "'九' (jiǔ) means 'nine'.",
+        "group": "mcq"
+    },
+    {
+        "id": 25,
+        "question": "What does '十' (shí) mean?",
+        "choices": [
+            {
+                "option": "A",
+                "answer": "Eight"
+            },
+            {
+                "option": "B",
+                "answer": "Ten"
+            },
+            {
+                "option": "C",
+                "answer": "Nine"
+            },
+            {
+                "option": "D",
+                "answer": "Seven"
+            }
+        ],
+        "correct_answer": "B",
+        "category": "numeral",
+        "explanation": "'十' (shí) means 'ten'.",
+        "group": "mcq"
+    }
+]

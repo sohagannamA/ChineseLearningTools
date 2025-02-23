@@ -1,0 +1,102 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    background-color: #131f24;
+}
+
+.each_link_image_box {
+    height: 40px;
+    width: 40px;
+    background-color: #172930;
+    border-radius: 50%;
+    margin-left: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.each_link_image_box:hover {
+    background-color: #060b0e;
+}
+
+.logo_section {
+    font-size: 1.2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+}
+
+.nav_link_icon {
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    color: rgb(198, 198, 198);
+}
+
+.profile_icon {
+    font-size: 1.4rem;
+}
+
+.link_image_box {
+    display: flex;
+    align-items: center;
+}
+
+.nav_container {
+    width: 100%;
+    background-color: #131f24;
+    position: sticky;
+    top: 0;
+    /* z-index: 999; */
+}
+
+.max-width {
+    padding: 10px 30px;
+}
+
+.nav_container .max-width {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav_menu_section {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    height: 100%;
+    background-color: #131f24;
+
+}
+
+.each_menue_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.menuName {
+    margin-top: 6px;
+    font-size: 0.8rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(215, 212, 212);
+}
+
+.each_menue_box:hover .menu_icon {
+    color: white;
+}
+
+.menu_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

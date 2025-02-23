@@ -1,0 +1,145 @@
+.create_study_plan_box_sec {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.bluer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
+}
+
+
+.study_plan_box {
+  background-color: #131f24;
+  width: 430px;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+.study_plan_box_nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.study_created_close_box {
+  height: 40px;
+  width: 40px;
+  background-color: #172d3b;
+  border-radius: 5px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close_icon {
+  font-size: 1.3rem;
+  color: aliceblue;
+}
+
+.study_created_close_box:hover {
+  background-color: #0d1a22;
+  cursor: pointer;
+}
+
+.study_plan_left {
+  font-size: 1.2rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(200, 204, 207);
+}
+
+.study_plan_user_section {
+  padding: 10px;
+}
+.create_study_plan_box_sec{
+
+}
+
+.study_name_user {
+  width: 100%;
+  outline: none;
+  font-size: 1rem;
+  font-family: sans-serif;
+  padding: 12px 15px;
+  color: rgb(211, 212, 212);
+  background-color: #172d3b;
+  border: none;
+  border-radius: 5px;
+}
+
+
+
+/* .each_user_study_user_inp {
+  margin: 20px 0;
+} */
+
+.study_created_explian_user {
+  width: 100%;
+  resize: none;
+  height: 100px;
+  background-color: #172d3b;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  font-family: sans-serif;
+  margin-top: 20px;
+  color: rgb(211, 212, 212);
+  padding: 12px 15px;
+  border-radius: 5px;
+}
+
+.study_created_explian_user::-webkit-scrollbar {
+  display: none;
+}
+
+.create_btn {
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px 30px;
+  border: none;
+  background-color: #0a1217;
+  font-size: 1rem;
+  color: aliceblue;
+  cursor: pointer;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+}
+
+.create_btn:hover {
+  background-color: #0d2230;
+  cursor: pointer;
+}
+
+.errorMessage {
+  text-align: center;
+  font-family: sans-serif;
+  color: aqua;
+}
+
+.each_week_user {
+  width: 100%;
+  background-color: transparent;
+  font-size: 3rem;
+  outline: none;
+  color: yellow;
+  border: none;
+  text-align: center;
+}
+
+.study_name_user {}
+
+.week_big_set {
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  color: rgb(212, 204, 204);
+  margin: 20px;
+}

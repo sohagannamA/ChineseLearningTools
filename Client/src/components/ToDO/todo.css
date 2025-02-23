@@ -1,0 +1,159 @@
+.todo_date {
+    color: aliceblue;
+}
+
+.each_todo_section {
+    max-height: 600px;
+    overflow-y: auto;
+}
+
+.each_todo_section::-webkit-scrollbar {
+    width: 10px;
+}
+
+
+.each_todo_section:hover::-webkit-scrollbar-thumb {
+    background-color: #264051;
+    border-radius: 30px;
+}
+
+
+.each_dialogue_title {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.todo_action_btn {
+    justify-content: inherit;
+}
+
+.todo_list_each_data {
+    margin-bottom: 10px;
+}
+
+.todo_action_each_box {
+    padding: 10px;
+    background-color: #0d2230;
+    color: #bfc0c0;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.todo_action_each_box:hover {
+    background-color: #0a1217;
+    cursor: pointer;
+}
+
+.check_box_sec {
+    display: flex;
+    align-items: center;
+}
+
+.title_and_date_sec {
+    margin-left: 15px;
+}
+
+.each_plan_section_todo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.edit_and_updateSection {
+    display: flex;
+    align-items: center;
+}
+
+.date_todo {
+    font-family: cursive;
+    color: #bfc0c0;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.custom-checkbox {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.custom-checkbox input[type="checkbox"] {
+    display: none;
+    /* Hide the default checkbox */
+}
+
+.custom-checkbox .checkmark {
+    width: 30px;
+    height: 30px;
+    background-color: #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+    position: relative;
+}
+
+.custom-checkbox input:checked+.checkmark {
+    background-color: #4caf50;
+    /* Green when checked */
+}
+
+.custom-checkbox .checkmark::after {
+    content: '';
+    position: absolute;
+    display: none;
+}
+
+.custom-checkbox input:checked+.checkmark::after {
+    display: block;
+}
+
+.custom-checkbox .checkmark::after {
+    left: 35%;
+    top: 20%;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+}
+
+
+
+.close_this_todo {
+    text-decoration: line-through;
+    text-decoration-color: rgb(255, 0, 0);
+    color: grey;
+}
+
+.after_comtodo {
+    color: grey;
+}
+
+.todobluer {
+    z-index: 999;
+}
+
+
+.todo_input_field {
+    margin-bottom: 20px;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+}
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+    display: none;
+}
+
+.each_todo_section {
+    height: 470px;
+}
+
+.each_todo_section {
+    margin-top: 30px;
+}

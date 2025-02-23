@@ -1,0 +1,35 @@
+.draw_components {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black
+}
+.close_ber_sec{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.close_ber_height {
+    height: 40px;
+    width: 40px;
+    border: 1px solid #575454;
+    margin: 10px;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.close_ber_height:hover {
+    background-color: #575454;
+}
+
+.close_icon_draw {
+    font-size: 1.2rem;
+    color: rgb(212, 208, 208);
+    font-weight: bold;
+}

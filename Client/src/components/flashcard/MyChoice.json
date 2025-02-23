@@ -1,0 +1,1361 @@
+[
+    {
+        "word": "苹果",
+        "meaning": "Apple",
+        "pinyin": "píngguǒ",
+        "example_sentence": "我正在吃一个苹果。(Wǒ zhèngzài chī yīgè píngguǒ.) - I am eating an apple.",
+        "category": "fruit"
+    },
+    {
+        "word": "香蕉",
+        "meaning": "Banana",
+        "pinyin": "xiāngjiāo",
+        "example_sentence": "她正在吃一根香蕉。(Tā zhèngzài chī yī gēn xiāngjiāo.) - She is eating a banana.",
+        "category": "fruit"
+    },
+    {
+        "word": "芒果",
+        "meaning": "Mango",
+        "pinyin": "mángguǒ",
+        "example_sentence": "这个芒果很甜。(Zhège mángguǒ hěn tián.) - This mango is very sweet.",
+        "category": "fruit"
+    },
+    {
+        "word": "木瓜",
+        "meaning": "Papaya",
+        "pinyin": "mùguā",
+        "example_sentence": "木瓜对身体很好。(Mùguā duì shēntǐ hěn hǎo.) - Papaya is very good for the body.",
+        "category": "fruit"
+    },
+    {
+        "word": "西瓜",
+        "meaning": "Watermelon",
+        "pinyin": "xīguā",
+        "example_sentence": "我很喜欢吃西瓜。(Wǒ hěn xǐhuān chī xīguā.) - I really like eating watermelon.",
+        "category": "fruit"
+    },
+    {
+        "word": "菠萝",
+        "meaning": "Pineapple",
+        "pinyin": "bōluó",
+        "example_sentence": "这菠萝非常新鲜。(Zhè bōluó fēicháng xīnxiān.) - This pineapple is very fresh.",
+        "category": "fruit"
+    },
+    {
+        "word": "草莓",
+        "meaning": "Strawberry",
+        "pinyin": "cǎoméi",
+        "example_sentence": "草莓很甜。(Cǎoméi hěn tián.) - The strawberry is very sweet.",
+        "category": "fruit"
+    },
+    {
+        "word": "橙子",
+        "meaning": "Orange",
+        "pinyin": "chéngzi",
+        "example_sentence": "我喜欢喝橙汁。(Wǒ xǐhuān hē chéng zhī.) - I like drinking orange juice.",
+        "category": "fruit"
+    },
+    {
+        "word": "葡萄",
+        "meaning": "Grape",
+        "pinyin": "pútáo",
+        "example_sentence": "葡萄很酸。(Pútáo hěn suān.) - The grapes are sour.",
+        "category": "fruit"
+    },
+    {
+        "word": "樱桃",
+        "meaning": "Cherry",
+        "pinyin": "yīngtáo",
+        "example_sentence": "樱桃非常美味。(Yīngtáo fēicháng měiwèi.) - Cherries are very delicious.",
+        "category": "fruit"
+    },
+    {
+        "word": "土豆",
+        "meaning": "Potato",
+        "pinyin": "tǔdòu",
+        "example_sentence": "我喜欢吃炸土豆。(Wǒ xǐhuān chī zhà tǔdòu.) - I like eating fried potatoes.",
+        "category": "vegetable"
+    },
+    {
+        "word": "番茄",
+        "meaning": "Tomato",
+        "pinyin": "fānqié",
+        "example_sentence": "番茄很好吃。(Fānqié hěn hǎochī.) - The tomato is very tasty.",
+        "category": "vegetable"
+    },
+    {
+        "word": "胡椒",
+        "meaning": "Pepper",
+        "pinyin": "hújiāo",
+        "example_sentence": "他加了很多胡椒。(Tā jiāle hěn duō hújiāo.) - He added a lot of pepper.",
+        "category": "vegetable"
+    },
+    {
+        "word": "黄瓜",
+        "meaning": "Cucumber",
+        "pinyin": "huángguā",
+        "example_sentence": "黄瓜很清脆。(Huángguā hěn qīngcuì.) - The cucumber is very crunchy.",
+        "category": "vegetable"
+    },
+    {
+        "word": "洋葱",
+        "meaning": "Onion",
+        "pinyin": "yángcōng",
+        "example_sentence": "洋葱让我流泪。(Yángcōng ràng wǒ liúlèi.) - The onion makes me cry.",
+        "category": "vegetable"
+    },
+    {
+        "word": "菠菜",
+        "meaning": "Spinach",
+        "pinyin": "bōcài",
+        "example_sentence": "菠菜富含铁。(Bōcài fùhán tiě.) - Spinach is rich in iron.",
+        "category": "vegetable"
+    },
+    {
+        "word": "茄子",
+        "meaning": "Eggplant",
+        "pinyin": "qiézi",
+        "example_sentence": "茄子是我的最爱。(Qiézi shì wǒ de zuì'ài.) - Eggplant is my favorite.",
+        "category": "vegetable"
+    },
+    {
+        "word": "胡萝卜",
+        "meaning": "Carrot",
+        "pinyin": "húluóbo",
+        "example_sentence": "我喜欢吃胡萝卜。(Wǒ xǐhuān chī húluóbo.) - I like eating carrots.",
+        "category": "vegetable"
+    },
+    {
+        "word": "菜花",
+        "meaning": "Cauliflower",
+        "pinyin": "càihuā",
+        "example_sentence": "菜花非常健康。(Càihuā fēicháng jiànkāng.) - Cauliflower is very healthy.",
+        "category": "vegetable"
+    },
+    {
+        "word": "竹笋",
+        "meaning": "Bamboo shoots",
+        "pinyin": "zhúsǔn",
+        "example_sentence": "竹笋是春季的美食。(Zhúsǔn shì chūnjì de měishí.) - Bamboo shoots are a spring delicacy.",
+        "category": "vegetable"
+    },
+    {
+        "word": "鸡肉",
+        "meaning": "Chicken",
+        "pinyin": "jīròu",
+        "example_sentence": "我喜欢吃鸡肉。(Wǒ xǐhuān chī jīròu.) - I like eating chicken.",
+        "category": "meat"
+    },
+    {
+        "word": "牛肉",
+        "meaning": "Beef",
+        "pinyin": "niúròu",
+        "example_sentence": "牛肉很嫩。(Niúròu hěn nèn.) - The beef is very tender.",
+        "category": "meat"
+    },
+    {
+        "word": "羊肉",
+        "meaning": "Mutton",
+        "pinyin": "yángròu",
+        "example_sentence": "羊肉在冬天非常受欢迎。(Yángròu zài dōngtiān fēicháng shòu huānyíng.) - Mutton is very popular in winter.",
+        "category": "meat"
+    },
+    {
+        "word": "猪肉",
+        "meaning": "Pork",
+        "pinyin": "zhūròu",
+        "example_sentence": "猪肉是常见的肉类。(Zhūròu shì chángjiàn de ròu lèi.) - Pork is a common type of meat.",
+        "category": "meat"
+    },
+    {
+        "word": "鱼肉",
+        "meaning": "Fish",
+        "pinyin": "yúròu",
+        "example_sentence": "我喜欢吃鱼肉。(Wǒ xǐhuān chī yúròu.) - I like eating fish.",
+        "category": "meat"
+    },
+    {
+        "word": "鸭肉",
+        "meaning": "Duck",
+        "pinyin": "yāròu",
+        "example_sentence": "鸭肉很美味。(Yāròu hěn měiwèi.) - Duck meat is delicious.",
+        "category": "meat"
+    },
+    {
+        "word": "鹅肉",
+        "meaning": "Goose",
+        "pinyin": "éròu",
+        "example_sentence": "鹅肉在节日期间很受欢迎。(Éròu zài jiérì qījiān hěn shòu huānyíng.) - Goose is very popular during holidays.",
+        "category": "meat"
+    },
+    {
+        "word": "兔肉",
+        "meaning": "Rabbit",
+        "pinyin": "tùròu",
+        "example_sentence": "兔肉是一个不常见的选择。(Tùròu shì yīgè bù chángjiàn de xuǎnzé.) - Rabbit meat is an uncommon choice.",
+        "category": "meat"
+    },
+    {
+        "word": "牛舌",
+        "meaning": "Beef tongue",
+        "pinyin": "niúshé",
+        "example_sentence": "牛舌是一道传统菜肴。(Niúshé shì yī dào chuántǒng càiyáo.) - Beef tongue is a traditional dish.",
+        "category": "meat"
+    },
+    {
+        "word": "肝脏",
+        "meaning": "Liver",
+        "pinyin": "gānzàng",
+        "example_sentence": "猪肝富含铁。(Zhūgān fùhán tiě.) - Pork liver is rich in iron.",
+        "category": "meat"
+    },
+    {
+        "word": "水",
+        "meaning": "Water",
+        "pinyin": "shuǐ",
+        "example_sentence": "我渴了，我想喝水。(Wǒ kě le, wǒ xiǎng hē shuǐ.) - I'm thirsty, I want to drink water.",
+        "category": "beverage"
+    },
+    {
+        "word": "茶",
+        "meaning": "Tea",
+        "pinyin": "chá",
+        "example_sentence": "中国人每天都喝茶。(Zhōngguó rén měitiān dōu hē chá.) - Chinese people drink tea every day.",
+        "category": "beverage"
+    },
+    {
+        "word": "咖啡",
+        "meaning": "Coffee",
+        "pinyin": "kāfēi",
+        "example_sentence": "我早上喝一杯咖啡。(Wǒ zǎoshang hē yī bēi kāfēi.) - I drink a cup of coffee in the morning.",
+        "category": "beverage"
+    },
+    {
+        "word": "果汁",
+        "meaning": "Juice",
+        "pinyin": "guǒzhī",
+        "example_sentence": "我喜欢喝橙汁。(Wǒ xǐhuān hē chéngzhī.) - I like drinking orange juice.",
+        "category": "beverage"
+    },
+    {
+        "word": "牛奶",
+        "meaning": "Milk",
+        "pinyin": "niúnǎi",
+        "example_sentence": "小孩子通常喜欢喝牛奶。(Xiǎo háizi tōngcháng xǐhuān hē niúnǎi.) - Little kids usually like drinking milk.",
+        "category": "beverage"
+    },
+    {
+        "word": "汽水",
+        "meaning": "Soda",
+        "pinyin": "qìshuǐ",
+        "example_sentence": "我不喜欢喝汽水。(Wǒ bù xǐhuān hē qìshuǐ.) - I don't like drinking soda.",
+        "category": "beverage"
+    },
+    {
+        "word": "啤酒",
+        "meaning": "Beer",
+        "pinyin": "píjiǔ",
+        "example_sentence": "我和朋友们一起喝啤酒。(Wǒ hé péngyǒu men yīqǐ hē píjiǔ.) - I drink beer with my friends.",
+        "category": "beverage"
+    },
+    {
+        "word": "葡萄酒",
+        "meaning": "Wine",
+        "pinyin": "pútáojiǔ",
+        "example_sentence": "她喜欢喝红葡萄酒。(Tā xǐhuān hē hóng pútáojiǔ.) - She likes drinking red wine.",
+        "category": "beverage"
+    },
+    {
+        "word": "饮料",
+        "meaning": "Beverage/Soft drink",
+        "pinyin": "yǐnliào",
+        "example_sentence": "我买了一瓶饮料。(Wǒ mǎile yī píng yǐnliào.) - I bought a bottle of beverage.",
+        "category": "beverage"
+    },
+    {
+        "word": "热巧克力",
+        "meaning": "Hot chocolate",
+        "pinyin": "rè qiǎokèlì",
+        "example_sentence": "冬天喝热巧克力很好。(Dōngtiān hē rè qiǎokèlì hěn hǎo.) - Drinking hot chocolate in winter is great.",
+        "category": "beverage"
+    },
+    {
+        "word": "足球",
+        "meaning": "Soccer",
+        "pinyin": "zúqiú",
+        "example_sentence": "我喜欢踢足球。(Wǒ xǐhuān tī zúqiú.) - I like playing soccer.",
+        "category": "sports"
+    },
+    {
+        "word": "篮球",
+        "meaning": "Basketball",
+        "pinyin": "lánqiú",
+        "example_sentence": "他每天都打篮球。(Tā měitiān dōu dǎ lánqiú.) - He plays basketball every day.",
+        "category": "sports"
+    },
+    {
+        "word": "网球",
+        "meaning": "Tennis",
+        "pinyin": "wǎngqiú",
+        "example_sentence": "她在周末打网球。(Tā zài zhōumò dǎ wǎngqiú.) - She plays tennis on weekends.",
+        "category": "sports"
+    },
+    {
+        "word": "游泳",
+        "meaning": "Swimming",
+        "pinyin": "yóuyǒng",
+        "example_sentence": "我喜欢在海里游泳。(Wǒ xǐhuān zài hǎi lǐ yóuyǒng.) - I like swimming in the sea.",
+        "category": "sports"
+    },
+    {
+        "word": "乒乓球",
+        "meaning": "Table tennis",
+        "pinyin": "pīngpāng qiú",
+        "example_sentence": "他们在学校打乒乓球。(Tāmen zài xuéxiào dǎ pīngpāng qiú.) - They play table tennis at school.",
+        "category": "sports"
+    },
+    {
+        "word": "羽毛球",
+        "meaning": "Badminton",
+        "pinyin": "yǔmáoqiú",
+        "example_sentence": "我们经常一起打羽毛球。(Wǒmen jīngcháng yīqǐ dǎ yǔmáoqiú.) - We often play badminton together.",
+        "category": "sports"
+    },
+    {
+        "word": "拳击",
+        "meaning": "Boxing",
+        "pinyin": "quánjī",
+        "example_sentence": "他正在训练拳击。(Tā zhèngzài xùnliàn quánjī.) - He is training for boxing.",
+        "category": "sports"
+    },
+    {
+        "word": "排球",
+        "meaning": "Volleyball",
+        "pinyin": "páiqiú",
+        "example_sentence": "我们在沙滩上打排球。(Wǒmen zài shātān shàng dǎ páiqiú.) - We play volleyball on the beach.",
+        "category": "sports"
+    },
+    {
+        "word": "高尔夫球",
+        "meaning": "Golf",
+        "pinyin": "gāo'ěrfū qiú",
+        "example_sentence": "我喜欢打高尔夫球。(Wǒ xǐhuān dǎ gāo'ěrfū qiú.) - I like playing golf.",
+        "category": "sports"
+    },
+    {
+        "word": "跑步",
+        "meaning": "Running",
+        "pinyin": "pǎobù",
+        "example_sentence": "每天早上我都跑步。(Měitiān zǎoshang wǒ dōu pǎobù.) - I run every morning.",
+        "category": "sports"
+    },
+    {
+        "word": "汽车",
+        "meaning": "Car",
+        "pinyin": "qìchē",
+        "example_sentence": "我有一辆汽车。(Wǒ yǒu yī liàng qìchē.) - I have a car.",
+        "category": "vehicle"
+    },
+    {
+        "word": "自行车",
+        "meaning": "Bicycle",
+        "pinyin": "zìxíngchē",
+        "example_sentence": "我每天骑自行车上班。(Wǒ měitiān qí zìxíngchē shàngbān.) - I ride a bicycle to work every day.",
+        "category": "vehicle"
+    },
+    {
+        "word": "摩托车",
+        "meaning": "Motorcycle",
+        "pinyin": "mótuōchē",
+        "example_sentence": "他骑摩托车上学。(Tā qí mótuōchē shàngxué.) - He rides a motorcycle to school.",
+        "category": "vehicle"
+    },
+    {
+        "word": "公交车",
+        "meaning": "Bus",
+        "pinyin": "gōngjiāo chē",
+        "example_sentence": "我每天坐公交车上班。(Wǒ měitiān zuò gōngjiāo chē shàngbān.) - I take the bus to work every day.",
+        "category": "vehicle"
+    },
+    {
+        "word": "火车",
+        "meaning": "Train",
+        "pinyin": "huǒchē",
+        "example_sentence": "我们坐火车去旅行。(Wǒmen zuò huǒchē qù lǚxíng.) - We take the train to travel.",
+        "category": "vehicle"
+    },
+    {
+        "word": "飞机",
+        "meaning": "Airplane",
+        "pinyin": "fēijī",
+        "example_sentence": "我明天要坐飞机去北京。(Wǒ míngtiān yào zuò fēijī qù Běijīng.) - I will take a plane to Beijing tomorrow.",
+        "category": "vehicle"
+    },
+    {
+        "word": "船",
+        "meaning": "Ship",
+        "pinyin": "chuán",
+        "example_sentence": "这艘船很大。(Zhè sōu chuán hěn dà.) - This ship is very large.",
+        "category": "vehicle"
+    },
+    {
+        "word": "衣服",
+        "meaning": "Clothes",
+        "pinyin": "yīfu",
+        "example_sentence": "今天我穿了新衣服。(Jīntiān wǒ chuānle xīn yīfu.) - I wore new clothes today.",
+        "category": "clothing"
+    },
+    {
+        "word": "裤子",
+        "meaning": "Pants",
+        "pinyin": "kùzi",
+        "example_sentence": "我买了一条新的裤子。(Wǒ mǎile yītiáo xīn de kùzi.) - I bought a new pair of pants.",
+        "category": "clothing"
+    },
+    {
+        "word": "衬衫",
+        "meaning": "Shirt",
+        "pinyin": "chènshān",
+        "example_sentence": "他穿了一件白色衬衫。(Tā chuānle yī jiàn báisè chènshān.) - He wore a white shirt.",
+        "category": "clothing"
+    },
+    {
+        "word": "裙子",
+        "meaning": "Skirt",
+        "pinyin": "qúnzi",
+        "example_sentence": "她今天穿了一条红色的裙子。(Tā jīntiān chuānle yītiáo hóngsè de qúnzi.) - She wore a red skirt today.",
+        "category": "clothing"
+    },
+    {
+        "word": "外套",
+        "meaning": "Coat",
+        "pinyin": "wàitào",
+        "example_sentence": "外面很冷，我需要穿外套。(Wàimiàn hěn lěng, wǒ xūyào chuān wàitào.) - It's very cold outside, I need to wear a coat.",
+        "category": "clothing"
+    },
+    {
+        "word": "鞋子",
+        "meaning": "Shoes",
+        "pinyin": "xiézi",
+        "example_sentence": "她穿了一双新的鞋子。(Tā chuānle yī shuāng xīn de xiézi.) - She wore a new pair of shoes.",
+        "category": "clothing"
+    },
+    {
+        "word": "帽子",
+        "meaning": "Hat",
+        "pinyin": "màozi",
+        "example_sentence": "他戴了一顶红色的帽子。(Tā dài le yī dǐng hóngsè de màozi.) - He wore a red hat.",
+        "category": "clothing"
+    },
+    {
+        "word": "手套",
+        "meaning": "Gloves",
+        "pinyin": "shǒutào",
+        "example_sentence": "冬天时，我喜欢戴手套。(Dōngtiān shí, wǒ xǐhuān dài shǒutào.) - I like wearing gloves in winter.",
+        "category": "clothing"
+    },
+    {
+        "word": "领带",
+        "meaning": "Tie",
+        "pinyin": "lǐngdài",
+        "example_sentence": "他戴了一条蓝色的领带。(Tā dài le yī tiáo lánsè de lǐngdài.) - He wore a blue tie.",
+        "category": "clothing"
+    },
+    {
+        "word": "袜子",
+        "meaning": "Socks",
+        "pinyin": "wàzi",
+        "example_sentence": "我找不到我的袜子。(Wǒ zhǎo bù dào wǒ de wàzi.) - I can't find my socks.",
+        "category": "clothing"
+    },
+    {
+        "word": "父亲",
+        "meaning": "Father",
+        "pinyin": "fùqīn",
+        "example_sentence": "我的父亲很勤劳。(Wǒ de fùqīn hěn qínláo.) - My father is very hardworking.",
+        "category": "family"
+    },
+    {
+        "word": "母亲",
+        "meaning": "Mother",
+        "pinyin": "mǔqīn",
+        "example_sentence": "我的母亲是老师。(Wǒ de mǔqīn shì lǎoshī.) - My mother is a teacher.",
+        "category": "family"
+    },
+    {
+        "word": "哥哥",
+        "meaning": "Older brother",
+        "pinyin": "gēge",
+        "example_sentence": "我的哥哥很高。(Wǒ de gēge hěn gāo.) - My older brother is tall.",
+        "category": "family"
+    },
+    {
+        "word": "妹妹",
+        "meaning": "Younger sister",
+        "pinyin": "mèimei",
+        "example_sentence": "她是我的妹妹。(Tā shì wǒ de mèimei.) - She is my younger sister.",
+        "category": "family"
+    },
+    {
+        "word": "姐姐",
+        "meaning": "Older sister",
+        "pinyin": "jiějie",
+        "example_sentence": "我的姐姐喜欢唱歌。(Wǒ de jiějie xǐhuān chànggē.) - My older sister likes singing.",
+        "category": "family"
+    },
+    {
+        "word": "弟弟",
+        "meaning": "Younger brother",
+        "pinyin": "dìdi",
+        "example_sentence": "弟弟很喜欢玩游戏。(Dìdi hěn xǐhuān wán yóuxì.) - My younger brother likes playing games.",
+        "category": "family"
+    },
+    {
+        "word": "爷爷",
+        "meaning": "Grandfather (father's side)",
+        "pinyin": "yéye",
+        "example_sentence": "我的爷爷住在乡下。(Wǒ de yéye zhù zài xiāngxià.) - My grandfather lives in the countryside.",
+        "category": "family"
+    },
+    {
+        "word": "奶奶",
+        "meaning": "Grandmother (father's side)",
+        "pinyin": "nǎinai",
+        "example_sentence": "奶奶做的饭很好吃。(Nǎinai zuò de fàn hěn hǎo chī.) - My grandmother's cooking is delicious.",
+        "category": "family"
+    },
+    {
+        "word": "外公",
+        "meaning": "Grandfather (mother's side)",
+        "pinyin": "wàigōng",
+        "example_sentence": "外公喜欢钓鱼。(Wàigōng xǐhuān diàoyú.) - My grandfather likes fishing.",
+        "category": "family"
+    },
+    {
+        "word": "外婆",
+        "meaning": "Grandmother (mother's side)",
+        "pinyin": "wàipó",
+        "example_sentence": "外婆每天都给我打电话。(Wàipó měitiān dōu gěi wǒ dǎ diànhuà.) - My grandmother calls me every day.",
+        "category": "family"
+    },
+    {
+        "word": "山",
+        "meaning": "Mountain",
+        "pinyin": "shān",
+        "example_sentence": "我们去爬山吧。(Wǒmen qù pá shān ba.) - Let's go climb the mountain.",
+        "category": "nature"
+    },
+    {
+        "word": "河",
+        "meaning": "River",
+        "pinyin": "hé",
+        "example_sentence": "这条河很长。(Zhè tiáo hé hěn cháng.) - This river is very long.",
+        "category": "nature"
+    },
+    {
+        "word": "树",
+        "meaning": "Tree",
+        "pinyin": "shù",
+        "example_sentence": "公园里有很多大树。(Gōngyuán lǐ yǒu hěn duō dà shù.) - There are many big trees in the park.",
+        "category": "nature"
+    },
+    {
+        "word": "花",
+        "meaning": "Flower",
+        "pinyin": "huā",
+        "example_sentence": "春天的时候花开得很漂亮。(Chūntiān de shíhòu huā kāi de hěn piàoliang.) - Flowers bloom beautifully in spring.",
+        "category": "nature"
+    },
+    {
+        "word": "天空",
+        "meaning": "Sky",
+        "pinyin": "tiānkōng",
+        "example_sentence": "今天的天空很蓝。(Jīntiān de tiānkōng hěn lán.) - The sky is very blue today.",
+        "category": "nature"
+    },
+    {
+        "word": "海",
+        "meaning": "Sea",
+        "pinyin": "hǎi",
+        "example_sentence": "我喜欢在海边散步。(Wǒ xǐhuān zài hǎibiān sànbù.) - I like walking by the sea.",
+        "category": "nature"
+    },
+    {
+        "word": "雨",
+        "meaning": "Rain",
+        "pinyin": "yǔ",
+        "example_sentence": "下雨了，我们该带伞。(Xià yǔ le, wǒmen gāi dài sǎn.) - It's raining, we should take an umbrella.",
+        "category": "nature"
+    },
+    {
+        "word": "风",
+        "meaning": "Wind",
+        "pinyin": "fēng",
+        "example_sentence": "今天的风很大。(Jīntiān de fēng hěn dà.) - The wind is very strong today.",
+        "category": "nature"
+    },
+    {
+        "word": "动物",
+        "meaning": "Animal",
+        "pinyin": "dòngwù",
+        "example_sentence": "动物园里有很多动物。(Dòngwùyuán lǐ yǒu hěn duō dòngwù.) - There are many animals in the zoo.",
+        "category": "nature"
+    },
+    {
+        "word": "星星",
+        "meaning": "Star",
+        "pinyin": "xīngxīng",
+        "example_sentence": "夜晚，天空中有很多星星。(Yèwǎn, tiānkōng zhōng yǒu hěn duō xīngxīng.) - At night, there are many stars in the sky.",
+        "category": "nature"
+    },
+    {
+        "word": "朋友",
+        "meaning": "Friend",
+        "pinyin": "péngyǒu",
+        "example_sentence": "她是我的好朋友。(Tā shì wǒ de hǎo péngyǒu.) - She is my good friend.",
+        "category": "relationships"
+    },
+    {
+        "word": "爱人",
+        "meaning": "Spouse",
+        "pinyin": "àirén",
+        "example_sentence": "我的爱人非常体贴。(Wǒ de àirén fēicháng tǐtiē.) - My spouse is very considerate.",
+        "category": "relationships"
+    },
+    {
+        "word": "男朋友",
+        "meaning": "Boyfriend",
+        "pinyin": "nán péngyǒu",
+        "example_sentence": "她的男朋友很帅。(Tā de nán péngyǒu hěn shuài.) - Her boyfriend is handsome.",
+        "category": "relationships"
+    },
+    {
+        "word": "女朋友",
+        "meaning": "Girlfriend",
+        "pinyin": "nǚ péngyǒu",
+        "example_sentence": "我和女朋友一起去旅行。(Wǒ hé nǚ péngyǒu yīqǐ qù lǚxíng.) - I am going on a trip with my girlfriend.",
+        "category": "relationships"
+    },
+    {
+        "word": "兄弟",
+        "meaning": "Brother (close friend)",
+        "pinyin": "xiōngdì",
+        "example_sentence": "他是我的兄弟。(Tā shì wǒ de xiōngdì.) - He is my brother.",
+        "category": "relationships"
+    },
+    {
+        "word": "姐妹",
+        "meaning": "Sisters (close friends)",
+        "pinyin": "jiěmèi",
+        "example_sentence": "我们是好姐妹。(Wǒmen shì hǎo jiěmèi.) - We are good sisters.",
+        "category": "relationships"
+    },
+    {
+        "word": "父母",
+        "meaning": "Parents",
+        "pinyin": "fùmǔ",
+        "example_sentence": "我的父母住在北京。(Wǒ de fùmǔ zhù zài Běijīng.) - My parents live in Beijing.",
+        "category": "relationships"
+    },
+    {
+        "word": "子女",
+        "meaning": "Children",
+        "pinyin": "zǐnǚ",
+        "example_sentence": "他们有两个子女。(Tāmen yǒu liǎng gè zǐnǚ.) - They have two children.",
+        "category": "relationships"
+    },
+    {
+        "word": "夫妻",
+        "meaning": "Husband and wife",
+        "pinyin": "fūqī",
+        "example_sentence": "他们是一对幸福的夫妻。(Tāmen shì yī duì xìngfú de fūqī.) - They are a happy couple.",
+        "category": "relationships"
+    },
+    {
+        "word": "邻居",
+        "meaning": "Neighbor",
+        "pinyin": "línjū",
+        "example_sentence": "我们的邻居很友好。(Wǒmen de línjū hěn yǒuhǎo.) - Our neighbor is very friendly.",
+        "category": "relationships"
+    },
+    {
+        "word": "学校",
+        "meaning": "School",
+        "pinyin": "xuéxiào",
+        "example_sentence": "我每天都去学校。(Wǒ měitiān dōu qù xuéxiào.) - I go to school every day.",
+        "category": "places"
+    },
+    {
+        "word": "医院",
+        "meaning": "Hospital",
+        "pinyin": "yīyuàn",
+        "example_sentence": "她去医院看病。(Tā qù yīyuàn kànbìng.) - She went to the hospital to see a doctor.",
+        "category": "places"
+    },
+    {
+        "word": "商店",
+        "meaning": "Store",
+        "pinyin": "shāngdiàn",
+        "example_sentence": "我们去商店买东西。(Wǒmen qù shāngdiàn mǎi dōngxī.) - We go to the store to buy things.",
+        "category": "places"
+    },
+    {
+        "word": "公园",
+        "meaning": "Park",
+        "pinyin": "gōngyuán",
+        "example_sentence": "周末我喜欢去公园散步。(Zhōumò wǒ xǐhuān qù gōngyuán sànbù.) - I like to take a walk in the park on weekends.",
+        "category": "places"
+    },
+    {
+        "word": "餐厅",
+        "meaning": "Restaurant",
+        "pinyin": "cāntīng",
+        "example_sentence": "我们在餐厅吃晚餐。(Wǒmen zài cāntīng chī wǎncān.) - We have dinner at the restaurant.",
+        "category": "places"
+    },
+    {
+        "word": "图书馆",
+        "meaning": "Library",
+        "pinyin": "túshūguǎn",
+        "example_sentence": "我在图书馆看书。(Wǒ zài túshūguǎn kànshū.) - I read books in the library.",
+        "category": "places"
+    },
+    {
+        "word": "超市",
+        "meaning": "Supermarket",
+        "pinyin": "chāoshì",
+        "example_sentence": "我去超市买了些水果。(Wǒ qù chāoshì mǎile xiē shuǐguǒ.) - I went to the supermarket and bought some fruit.",
+        "category": "places"
+    },
+    {
+        "word": "机场",
+        "meaning": "Airport",
+        "pinyin": "jīchǎng",
+        "example_sentence": "我们要去机场接他。(Wǒmen yào qù jīchǎng jiē tā.) - We are going to the airport to pick him up.",
+        "category": "places"
+    },
+    {
+        "word": "电影院",
+        "meaning": "Cinema",
+        "pinyin": "diànyǐngyuàn",
+        "example_sentence": "我们去电影院看电影。(Wǒmen qù diànyǐngyuàn kàn diànyǐng.) - We are going to the cinema to watch a movie.",
+        "category": "places"
+    },
+    {
+        "word": "海滩",
+        "meaning": "Beach",
+        "pinyin": "hǎitān",
+        "example_sentence": "夏天我们常常去海滩游泳。(Xiàtiān wǒmen chángcháng qù hǎitān yóuyǒng.) - We often go to the beach to swim in summer.",
+        "category": "places"
+    },
+    {
+        "word": "快乐",
+        "meaning": "Happy",
+        "pinyin": "kuàilè",
+        "example_sentence": "今天我很快乐。(Jīntiān wǒ hěn kuàilè.) - I am very happy today.",
+        "category": "emotions"
+    },
+    {
+        "word": "悲伤",
+        "meaning": "Sad",
+        "pinyin": "bēishāng",
+        "example_sentence": "她因为失去朋友而感到悲伤。(Tā yīnwèi shīqù péngyǒu ér gǎndào bēishāng.) - She felt sad because she lost her friend.",
+        "category": "emotions"
+    },
+    {
+        "word": "生气",
+        "meaning": "Angry",
+        "pinyin": "shēngqì",
+        "example_sentence": "他因为迟到而生气。(Tā yīnwèi chídào ér shēngqì.) - He got angry because he was late.",
+        "category": "emotions"
+    },
+    {
+        "word": "兴奋",
+        "meaning": "Excited",
+        "pinyin": "xīngfèn",
+        "example_sentence": "我对明天的旅行感到很兴奋。(Wǒ duì míngtiān de lǚxíng gǎndào hěn xīngfèn.) - I am very excited about the trip tomorrow.",
+        "category": "emotions"
+    },
+    {
+        "word": "害怕",
+        "meaning": "Afraid",
+        "pinyin": "hàipà",
+        "example_sentence": "他害怕黑暗。(Tā hàipà hēi'àn.) - He is afraid of the dark.",
+        "category": "emotions"
+    },
+    {
+        "word": "紧张",
+        "meaning": "Nervous",
+        "pinyin": "jǐnzhāng",
+        "example_sentence": "我在考试前总是感到很紧张。(Wǒ zài kǎoshì qián zǒng shì gǎndào hěn jǐnzhāng.) - I always feel nervous before exams.",
+        "category": "emotions"
+    },
+    {
+        "word": "自信",
+        "meaning": "Confident",
+        "pinyin": "zìxìn",
+        "example_sentence": "她在演讲时非常自信。(Tā zài yǎnjiǎng shí fēicháng zìxìn.) - She is very confident when giving a speech.",
+        "category": "emotions"
+    },
+    {
+        "word": "羞愧",
+        "meaning": "Ashamed",
+        "pinyin": "xiūkuì",
+        "example_sentence": "他对自己的行为感到羞愧。(Tā duì zìjǐ de xíngwéi gǎndào xiūkuì.) - He feels ashamed of his behavior.",
+        "category": "emotions"
+    },
+    {
+        "word": "放松",
+        "meaning": "Relaxed",
+        "pinyin": "fàngsōng",
+        "example_sentence": "度假时我感到很放松。(Dùjià shí wǒ gǎndào hěn fàngsōng.) - I feel very relaxed during my vacation.",
+        "category": "emotions"
+    },
+    {
+        "word": "惊讶",
+        "meaning": "Surprised",
+        "pinyin": "jīngyà",
+        "example_sentence": "我对他的决定感到惊讶。(Wǒ duì tā de juédìng gǎndào jīngyà.) - I was surprised by his decision.",
+        "category": "emotions"
+    },
+    {
+        "word": "医生",
+        "meaning": "Doctor",
+        "pinyin": "yīshēng",
+        "example_sentence": "她是一个非常优秀的医生。(Tā shì yīgè fēicháng yōuxiù de yīshēng.) - She is an excellent doctor.",
+        "category": "occupations"
+    },
+    {
+        "word": "教师",
+        "meaning": "Teacher",
+        "pinyin": "jiàoshī",
+        "example_sentence": "他是一名中学教师。(Tā shì yī míng zhōngxué jiàoshī.) - He is a middle school teacher.",
+        "category": "occupations"
+    },
+    {
+        "word": "工程师",
+        "meaning": "Engineer",
+        "pinyin": "gōngchéngshī",
+        "example_sentence": "我正在成为一名软件工程师。(Wǒ zhèngzài chéngwéi yī míng ruǎnjiàn gōngchéngshī.) - I am becoming a software engineer.",
+        "category": "occupations"
+    },
+    {
+        "word": "律师",
+        "meaning": "Lawyer",
+        "pinyin": "lǜshī",
+        "example_sentence": "他是一位非常成功的律师。(Tā shì yī wèi fēicháng chénggōng de lǜshī.) - He is a very successful lawyer.",
+        "category": "occupations"
+    },
+    {
+        "word": "护士",
+        "meaning": "Nurse",
+        "pinyin": "hùshì",
+        "example_sentence": "护士们在医院里照顾病人。(Hùshìmen zài yīyuàn lǐ zhàogù bìngrén.) - The nurses take care of patients in the hospital.",
+        "category": "occupations"
+    },
+    {
+        "word": "厨师",
+        "meaning": "Chef",
+        "pinyin": "chúshī",
+        "example_sentence": "这家餐厅的厨师非常有名。(Zhè jiā cāntīng de chúshī fēicháng yǒumíng.) - The chef at this restaurant is very famous.",
+        "category": "occupations"
+    },
+    {
+        "word": "记者",
+        "meaning": "Journalist",
+        "pinyin": "jìzhě",
+        "example_sentence": "他是一位资深的记者。(Tā shì yī wèi zīshēn de jìzhě.) - He is a seasoned journalist.",
+        "category": "occupations"
+    },
+    {
+        "word": "司机",
+        "meaning": "Driver",
+        "pinyin": "sījī",
+        "example_sentence": "我是一名出租车司机。(Wǒ shì yī míng chūzūchē sījī.) - I am a taxi driver.",
+        "category": "occupations"
+    },
+    {
+        "word": "演员",
+        "meaning": "Actor/Actress",
+        "pinyin": "yǎnyuán",
+        "example_sentence": "她是一个著名的演员。(Tā shì yīgè zhùmíng de yǎnyuán.) - She is a famous actress.",
+        "category": "occupations"
+    },
+    {
+        "word": "科学家",
+        "meaning": "Scientist",
+        "pinyin": "kēxuéjiā",
+        "example_sentence": "他是一位杰出的科学家。(Tā shì yī wèi jiéchū de kēxuéjiā.) - He is an outstanding scientist.",
+        "category": "occupations"
+    },
+    {
+        "word": "学校",
+        "meaning": "School",
+        "pinyin": "xuéxiào",
+        "example_sentence": "我每天都去学校。(Wǒ měitiān dōu qù xuéxiào.) - I go to school every day.",
+        "category": "education"
+    },
+    {
+        "word": "大学",
+        "meaning": "University",
+        "pinyin": "dàxué",
+        "example_sentence": "她正在申请大学。(Tā zhèngzài shēnqǐng dàxué.) - She is applying for university.",
+        "category": "education"
+    },
+    {
+        "word": "老师",
+        "meaning": "Teacher",
+        "pinyin": "lǎoshī",
+        "example_sentence": "我的老师非常友好。(Wǒ de lǎoshī fēicháng yǒuhǎo.) - My teacher is very friendly.",
+        "category": "education"
+    },
+    {
+        "word": "学生",
+        "meaning": "Student",
+        "pinyin": "xuéshēng",
+        "example_sentence": "他是一个努力学习的学生。(Tā shì yīgè nǔlì xuéxí de xuéshēng.) - He is a hardworking student.",
+        "category": "education"
+    },
+    {
+        "word": "课程",
+        "meaning": "Course",
+        "pinyin": "kèchéng",
+        "example_sentence": "我正在选修一门历史课程。(Wǒ zhèngzài xuǎnxiū yī mén lìshǐ kèchéng.) - I am taking a history course.",
+        "category": "education"
+    },
+    {
+        "word": "考试",
+        "meaning": "Exam",
+        "pinyin": "kǎoshì",
+        "example_sentence": "明天有一个数学考试。(Míngtiān yǒu yīgè shùxué kǎoshì.) - There is a math exam tomorrow.",
+        "category": "education"
+    },
+    {
+        "word": "图书馆",
+        "meaning": "Library",
+        "pinyin": "túshūguǎn",
+        "example_sentence": "我在图书馆借书。(Wǒ zài túshūguǎn jiè shū.) - I borrow books from the library.",
+        "category": "education"
+    },
+    {
+        "word": "作业",
+        "meaning": "Homework",
+        "pinyin": "zuòyè",
+        "example_sentence": "我今天有很多作业。(Wǒ jīntiān yǒu hěn duō zuòyè.) - I have a lot of homework today.",
+        "category": "education"
+    },
+    {
+        "word": "学期",
+        "meaning": "Semester",
+        "pinyin": "xuéqī",
+        "example_sentence": "我们这个学期有五门课。(Wǒmen zhège xuéqī yǒu wǔmén kè.) - We have five courses this semester.",
+        "category": "education"
+    },
+    {
+        "word": "学位",
+        "meaning": "Degree",
+        "pinyin": "xuéwèi",
+        "example_sentence": "他获得了硕士学位。(Tā huòdé le shuòshì xuéwèi.) - He earned a master's degree.",
+        "category": "education"
+    },
+    {
+        "word": "课堂",
+        "meaning": "Classroom",
+        "pinyin": "kètáng",
+        "example_sentence": "我们今天的课堂很有趣。(Wǒmen jīntiān de kètáng hěn yǒuqù.) - Today's class is very interesting.",
+        "category": "education"
+    },
+    {
+        "word": "讲座",
+        "meaning": "Lecture",
+        "pinyin": "jiǎngzuò",
+        "example_sentence": "我参加了一个关于历史的讲座。(Wǒ cānjiāle yīgè guānyú lìshǐ de jiǎngzuò.) - I attended a lecture on history.",
+        "category": "education"
+    },
+    {
+        "word": "学科",
+        "meaning": "Subject",
+        "pinyin": "xuékē",
+        "example_sentence": "数学是我最喜欢的学科。(Shùxué shì wǒ zuì xǐhuān de xuékē.) - Math is my favorite subject.",
+        "category": "education"
+    },
+    {
+        "word": "成绩",
+        "meaning": "Grade",
+        "pinyin": "chéngjī",
+        "example_sentence": "我的考试成绩很不错。(Wǒ de kǎoshì chéngjī hěn bùcuò.) - My exam grades are quite good.",
+        "category": "education"
+    },
+    {
+        "word": "毕业",
+        "meaning": "Graduation",
+        "pinyin": "bìyè",
+        "example_sentence": "我将在今年毕业。(Wǒ jiàng zài jīnnián bìyè.) - I will graduate this year.",
+        "category": "education"
+    },
+    {
+        "word": "技术",
+        "meaning": "Technology",
+        "pinyin": "jìshù",
+        "example_sentence": "这项技术正在改变我们的生活。(Zhè xiàng jìshù zhèngzài gǎibiàn wǒmen de shēnghuó.) - This technology is changing our lives.",
+        "category": "technology"
+    },
+    {
+        "word": "电脑",
+        "meaning": "Computer",
+        "pinyin": "diànnǎo",
+        "example_sentence": "我用电脑工作。(Wǒ yòng diànnǎo gōngzuò.) - I work using a computer.",
+        "category": "technology"
+    },
+    {
+        "word": "互联网",
+        "meaning": "Internet",
+        "pinyin": "hùliánwǎng",
+        "example_sentence": "我们通过互联网获取信息。(Wǒmen tōngguò hùliánwǎng huòqǔ xìnxī.) - We get information through the internet.",
+        "category": "technology"
+    },
+    {
+        "word": "手机",
+        "meaning": "Mobile phone",
+        "pinyin": "shǒujī",
+        "example_sentence": "我用手机拍照。(Wǒ yòng shǒujī pāizhào.) - I take pictures with my phone.",
+        "category": "technology"
+    },
+    {
+        "word": "应用程序",
+        "meaning": "App",
+        "pinyin": "yìngyòng chéngxù",
+        "example_sentence": "我下载了一个新的应用程序。(Wǒ xiàzài le yīgè xīn de yìngyòng chéngxù.) - I downloaded a new app.",
+        "category": "technology"
+    },
+    {
+        "word": "软件",
+        "meaning": "Software",
+        "pinyin": "ruǎnjiàn",
+        "example_sentence": "我正在学习编程软件。(Wǒ zhèngzài xuéxí biānchéng ruǎnjiàn.) - I am learning programming software.",
+        "category": "technology"
+    },
+    {
+        "word": "硬件",
+        "meaning": "Hardware",
+        "pinyin": "yìngjiàn",
+        "example_sentence": "这台电脑的硬件很先进。(Zhè tái diànnǎo de yìngjiàn hěn xiānjìn.) - The hardware of this computer is very advanced.",
+        "category": "technology"
+    },
+    {
+        "word": "机器人",
+        "meaning": "Robot",
+        "pinyin": "jīqìrén",
+        "example_sentence": "机器人正在为我们工作。(Jīqìrén zhèngzài wèi wǒmen gōngzuò.) - The robot is working for us.",
+        "category": "technology"
+    },
+    {
+        "word": "人工智能",
+        "meaning": "Artificial Intelligence",
+        "pinyin": "réngōng zhìnéng",
+        "example_sentence": "人工智能正在快速发展。(Réngōng zhìnéng zhèngzài kuàisù fāzhǎn.) - Artificial intelligence is developing rapidly.",
+        "category": "technology"
+    },
+    {
+        "word": "数据",
+        "meaning": "Data",
+        "pinyin": "shùjù",
+        "example_sentence": "我们需要收集更多的数据。(Wǒmen xūyào shōují gèng duō de shùjù.) - We need to collect more data.",
+        "category": "technology"
+    },
+    {
+        "word": "云计算",
+        "meaning": "Cloud computing",
+        "pinyin": "yún jìsuàn",
+        "example_sentence": "云计算正在改变商业模式。(Yún jìsuàn zhèngzài gǎibiàn shāngyè móshì.) - Cloud computing is changing business models.",
+        "category": "technology"
+    },
+    {
+        "word": "网络安全",
+        "meaning": "Cybersecurity",
+        "pinyin": "wǎngluò ānquán",
+        "example_sentence": "我们需要加强网络安全。(Wǒmen xūyào jiāqiáng wǎngluò ānquán.) - We need to strengthen cybersecurity.",
+        "category": "technology"
+    },
+    {
+        "word": "虚拟现实",
+        "meaning": "Virtual reality",
+        "pinyin": "xūnǐ xiànshí",
+        "example_sentence": "虚拟现实技术使游戏更加真实。(Xūnǐ xiànshí jìshù shǐ yóuxì gèng jiā zhēnshí.) - Virtual reality technology makes games more realistic.",
+        "category": "technology"
+    },
+    {
+        "word": "区块链",
+        "meaning": "Blockchain",
+        "pinyin": "qūkuài liàn",
+        "example_sentence": "区块链技术具有巨大的潜力。(Qūkuài liàn jìshù jùyǒu jùdà de qiánlì.) - Blockchain technology has enormous potential.",
+        "category": "technology"
+    },
+    {
+        "word": "3D打印",
+        "meaning": "3D printing",
+        "pinyin": "3D dǎyìn",
+        "example_sentence": "3D打印正在改变制造行业。(3D dǎyìn zhèngzài gǎibiàn zhìzào hángyè.) - 3D printing is changing the manufacturing industry.",
+        "category": "technology"
+    },
+    {
+        "word": "编程",
+        "meaning": "Programming",
+        "pinyin": "biānchéng",
+        "example_sentence": "编程是开发软件的基础。(Biānchéng shì kāifā ruǎnjiàn de jīchǔ.) - Programming is the foundation of software development.",
+        "category": "general"
+    },
+    {
+        "word": "代码",
+        "meaning": "Code",
+        "pinyin": "dàimǎ",
+        "example_sentence": "代码编写是软件开发的核心部分。(Dàimǎ biānxiě shì ruǎnjiàn kāifā de héxīn bùfen.) - Writing code is the core part of software development.",
+        "category": "general"
+    },
+    {
+        "word": "函数",
+        "meaning": "Function",
+        "pinyin": "hánshù",
+        "example_sentence": "这个函数接受两个参数。(Zhège hánshù jiēshòu liǎng gè cānshù.) - This function takes two parameters.",
+        "category": "general"
+    },
+    {
+        "word": "变量",
+        "meaning": "Variable",
+        "pinyin": "biànliàng",
+        "example_sentence": "我们使用变量存储数据。(Wǒmen shǐyòng biànliàng cúnchǔ shùjù.) - We use variables to store data.",
+        "category": "general"
+    },
+    {
+        "word": "常量",
+        "meaning": "Constant",
+        "pinyin": "chángliàng",
+        "example_sentence": "常量的值在程序中不能改变。(Chángliàng de zhí zài chéngxù zhōng bùnéng gǎibiàn.) - The value of a constant cannot be changed in the program.",
+        "category": "general"
+    },
+    {
+        "word": "数组",
+        "meaning": "Array",
+        "pinyin": "shùzǔ",
+        "example_sentence": "这个数组包含10个元素。(Zhège shùzǔ bāohán 10 gè yuánsù.) - This array contains 10 elements.",
+        "category": "data structure"
+    },
+    {
+        "word": "链表",
+        "meaning": "Linked List",
+        "pinyin": "liànbiǎo",
+        "example_sentence": "链表是由节点组成的数据结构。(Liànbiǎo shì yóu jiédiǎn zǔchéng de shùjù jiégòu.) - A linked list is a data structure composed of nodes.",
+        "category": "data structure"
+    },
+    {
+        "word": "栈",
+        "meaning": "Stack",
+        "pinyin": "zhàn",
+        "example_sentence": "栈是一种先进后出的数据结构。(Zhàn shì yī zhǒng xiānjìn hòu chū de shùjù jiégòu.) - A stack is a data structure that follows the LIFO (Last In First Out) principle.",
+        "category": "data structure"
+    },
+    {
+        "word": "队列",
+        "meaning": "Queue",
+        "pinyin": "duìliè",
+        "example_sentence": "队列是一种先进先出的数据结构。(Duìliè shì yī zhǒng xiānjìn xiān chū de shùjù jiégòu.) - A queue is a data structure that follows the FIFO (First In First Out) principle.",
+        "category": "data structure"
+    },
+    {
+        "word": "哈希表",
+        "meaning": "Hash Table",
+        "pinyin": "hāxī biǎo",
+        "example_sentence": "哈希表用于高效地查找元素。(Hāxī biǎo yòng yú gāoxiào de cházhǎo yuánsù.) - A hash table is used for efficient element lookup.",
+        "category": "data structure"
+    },
+    {
+        "word": "排序",
+        "meaning": "Sorting",
+        "pinyin": "páixù",
+        "example_sentence": "我们使用快速排序算法来排序数据。(Wǒmen shǐyòng kuàisù páixù suànfǎ lái páixù shùjù.) - We use the quicksort algorithm to sort data.",
+        "category": "algorithm"
+    },
+    {
+        "word": "查找",
+        "meaning": "Search",
+        "pinyin": "cházhǎo",
+        "example_sentence": "二分查找是查找元素的高效方法。(Èr fēn cházhǎo shì cházhǎo yuánsù de gāoxiào fāngfǎ.) - Binary search is an efficient method to search for elements.",
+        "category": "algorithm"
+    },
+    {
+        "word": "递归",
+        "meaning": "Recursion",
+        "pinyin": "dìguī",
+        "example_sentence": "递归是一个常见的编程技巧。(Dìguī shì yīgè chángjiàn de biānchéng jìqiǎo.) - Recursion is a common programming technique.",
+        "category": "algorithm"
+    },
+    {
+        "word": "动态编程",
+        "meaning": "Dynamic Programming",
+        "pinyin": "dòngtài biānchéng",
+        "example_sentence": "动态编程用于解决最优子结构问题。(Dòngtài biānchéng yòng yú jiějué zuì yōu zǐ jiégòu wèntí.) - Dynamic programming is used to solve problems with optimal substructure.",
+        "category": "algorithm"
+    },
+    {
+        "word": "并发",
+        "meaning": "Concurrency",
+        "pinyin": "bìngfā",
+        "example_sentence": "并发编程可以让多个任务同时执行。(Bìngfā biānchéng kěyǐ ràng duō gè rènwù tóngshí zhíxíng.) - Concurrent programming allows multiple tasks to run simultaneously.",
+        "category": "concept"
+    },
+    {
+        "word": "并行",
+        "meaning": "Parallelism",
+        "pinyin": "bìngxíng",
+        "example_sentence": "并行计算能显著提高程序的运行速度。(Bìngxíng jìsuàn néng xiǎnzhù tígāo chéngxù de yùnxíng sùdù.) - Parallel computing can significantly improve the execution speed of programs.",
+        "category": "concept"
+    },
+    {
+        "word": "面向对象",
+        "meaning": "Object-Oriented",
+        "pinyin": "miànxiàng duìxiàng",
+        "example_sentence": "面向对象编程是一种编程范式。(Miànxiàng duìxiàng biānchéng shì yī zhǒng biānchéng fànshì.) - Object-oriented programming is a programming paradigm.",
+        "category": "concept"
+    },
+    {
+        "word": "类",
+        "meaning": "Class",
+        "pinyin": "lèi",
+        "example_sentence": "我们用类来创建对象。(Wǒmen yòng lèi lái chuàngjiàn duìxiàng.) - We use classes to create objects.",
+        "category": "concept"
+    },
+    {
+        "word": "对象",
+        "meaning": "Object",
+        "pinyin": "duìxiàng",
+        "example_sentence": "对象是类的实例。(Duìxiàng shì lèi de shílì.) - An object is an instance of a class.",
+        "category": "concept"
+    },
+    {
+        "word": "继承",
+        "meaning": "Inheritance",
+        "pinyin": "jìchéng",
+        "example_sentence": "继承是面向对象编程的一个重要特性。(Jìchéng shì miànxiàng duìxiàng biānchéng de yīgè zhòngyào tèxìng.) - Inheritance is an important feature of object-oriented programming.",
+        "category": "concept"
+    },
+    {
+        "word": "多态",
+        "meaning": "Polymorphism",
+        "pinyin": "duōtài",
+        "example_sentence": "多态允许同一方法在不同对象上表现不同的行为。(Duōtài yǔnxǔ tóng yī fāngfǎ zài bùtóng duìxiàng shàng biǎoxiàn bùtóng de xíngwéi.) - Polymorphism allows the same method to behave differently on different objects.",
+        "category": "concept"
+    },
+    {
+        "word": "封装",
+        "meaning": "Encapsulation",
+        "pinyin": "fēngzhuāng",
+        "example_sentence": "封装帮助隐藏对象的内部实现细节。(Fēngzhuāng bāngzhù yǐncáng duìxiàng de nèibù shíxiàn xìjié.) - Encapsulation helps hide the internal implementation details of an object.",
+        "category": "concept"
+    },
+    {
+        "word": "中国",
+        "meaning": "China",
+        "pinyin": "Zhōngguó",
+        "example_sentence": "中国是世界上人口最多的国家。(Zhōngguó shì shìjiè shàng rénkǒu zuì duō de guójiā.) - China is the most populous country in the world.",
+        "category": "country"
+    },
+    {
+        "word": "美国",
+        "meaning": "United States",
+        "pinyin": "Měiguó",
+        "example_sentence": "美国是一个发达国家。(Měiguó shì yīgè fādá guójiā.) - The United States is a developed country.",
+        "category": "country"
+    },
+    {
+        "word": "印度",
+        "meaning": "India",
+        "pinyin": "Yìndù",
+        "example_sentence": "印度有着丰富的历史和文化。(Yìndù yǒuzhe fēngfù de lìshǐ hé wénhuà.) - India has a rich history and culture.",
+        "category": "country"
+    },
+    {
+        "word": "日本",
+        "meaning": "Japan",
+        "pinyin": "Rìběn",
+        "example_sentence": "日本是一个高科技的国家。(Rìběn shì yīgè gāo kējì de guójiā.) - Japan is a high-tech country.",
+        "category": "country"
+    },
+    {
+        "word": "巴西",
+        "meaning": "Brazil",
+        "pinyin": "Bāxī",
+        "example_sentence": "巴西是南美洲最大、最人口众多的国家。(Bāxī shì nán měi zhōu zuì dà, zuì rénkǒu zhòngduō de guójiā.) - Brazil is the largest and most populous country in South America.",
+        "category": "country"
+    },
+    {
+        "word": "法国",
+        "meaning": "France",
+        "pinyin": "Fàguó",
+        "example_sentence": "法国以其文化和美食而闻名。(Fàguó yǐ qí wénhuà hé měishí ér wénmíng.) - France is famous for its culture and cuisine.",
+        "category": "country"
+    },
+    {
+        "word": "德国",
+        "meaning": "Germany",
+        "pinyin": "Déguó",
+        "example_sentence": "德国是世界上经济最强的国家之一。(Déguó shì shìjiè shàng jīngjì zuì qiáng de guójiā zhī yī.) - Germany is one of the strongest economies in the world.",
+        "category": "country"
+    },
+    {
+        "word": "俄罗斯",
+        "meaning": "Russia",
+        "pinyin": "Éluósī",
+        "example_sentence": "俄罗斯是世界上面积最大的国家。(Éluósī shì shìjiè shàng miànjī zuì dà de guójiā.) - Russia is the largest country in the world by area.",
+        "category": "country"
+    },
+    {
+        "word": "加拿大",
+        "meaning": "Canada",
+        "pinyin": "Jiānádà",
+        "example_sentence": "加拿大是一个环境美丽的国家。(Jiānádà shì yīgè huánjìng měilì de guójiā.) - Canada is a country with a beautiful environment.",
+        "category": "country"
+    },
+    {
+        "word": "澳大利亚",
+        "meaning": "Australia",
+        "pinyin": "Àodàlìyà",
+        "example_sentence": "澳大利亚以其自然景观和动物而著名。(Àodàlìyà yǐ qí zìrán jǐngguān hé dòngwù ér zhùmíng.) - Australia is famous for its natural landscapes and animals.",
+        "category": "country"
+    },
+    {
+        "word": "英国",
+        "meaning": "United Kingdom",
+        "pinyin": "Yīngguó",
+        "example_sentence": "英国的文化对全球有深远的影响。(Yīngguó de wénhuà duì quánqiú yǒu shēnyuǎn de yǐngxiǎng.) - British culture has a far-reaching influence on the world.",
+        "category": "country"
+    },
+    {
+        "word": "韩国",
+        "meaning": "South Korea",
+        "pinyin": "Hánguó",
+        "example_sentence": "韩国是一个以其技术和流行文化闻名的国家。(Hánguó shì yīgè yǐ qí jìshù hé liúxíng wénhuà wénmíng de guójiā.) - South Korea is known for its technology and pop culture.",
+        "category": "country"
+    },
+    {
+        "word": "意大利",
+        "meaning": "Italy",
+        "pinyin": "Yìdàlì",
+        "example_sentence": "意大利的美食和艺术闻名于世界。(Yìdàlì de měishí hé yìshù wénmíng yú shìjiè.) - Italy is famous for its food and art around the world.",
+        "category": "country"
+    },
+    {
+        "word": "墨西哥",
+        "meaning": "Mexico",
+        "pinyin": "Mòxīgē",
+        "example_sentence": "墨西哥是拉丁美洲的重要国家。(Mòxīgē shì Lādīng Měizhōu de zhòngyào guójiā.) - Mexico is an important country in Latin America.",
+        "category": "country"
+    },
+    {
+        "word": "埃及",
+        "meaning": "Egypt",
+        "pinyin": "Āijí",
+        "example_sentence": "埃及是拥有悠久历史和文明的国家。(Āijí shì yǒngyǒu yōujiǔ lìshǐ hé wénmíng de guójiā.) - Egypt is a country with a long history and civilization.",
+        "category": "country"
+    }
+    
+]

@@ -1,0 +1,67 @@
+.left_nav_container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 20%;
+    border-right: 1px solid #172d3b;
+    background-color: #131f24;
+}
+
+.left_nav_logo_sec {
+    padding: 10px 30px;
+}
+
+.left_nav_logo {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+
+}
+
+.left_nav_logo_title {
+    font-size: 1.2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+}
+
+.each__left_link_sec {
+    display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    margin-bottom: 10px;
+}
+
+.each__left_link_sec:hover {
+    background: linear-gradient(to left, rgb(19, 31, 36), rgba(8, 44, 80, 0.75));
+}
+
+.left_icon_link {
+    font-size: 1.5rem;
+    color: rgb(188, 180, 180);
+}
+
+.each_link_right {
+    margin: 0 10px;
+}
+
+.left_link_icon_name {
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(223, 219, 219);
+}
+
+/* .all_left_nav_link_sec {
+    margin-top: 10px;
+} */
+
+.Create_study_plan {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.57);
+    /* background-color: red; */
+}

@@ -1,0 +1,89 @@
+.userAuthContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.userauthbox {
+    background-color: rgb(221, 219, 216);
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 10px 20px 0 #000000;
+}
+
+.userAuthLogo_section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.userauthLogo_imgae {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.userauthLogo_imgae img {
+    height: 100%;
+    width: 100%;
+    /* object-fit: cover; */
+    /* border: 3px solid #b5b3b3; */
+    border-radius: 50%;
+}
+
+.error_message {
+    text-align: center;
+    padding: 10px;
+    background: rgb(241, 76, 76);
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+.userauth_input {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.each_userauth_input {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.auth_user_inp {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    font-family: sans-serif;
+}
+
+
+
+.auth_action {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: rgb(89, 17, 183);
+    font-size: 1rem;
+    font-family: sans-serif;
+    color: white;
+    cursor: pointer;
+}
+
+.auth_action:hover {
+    background-color: rgb(112, 34, 185);
+}
+
+.login_page_back {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(31, 92, 177);
+    display: block;
+    margin: 20px 0;
+}

@@ -1,0 +1,303 @@
+.created_main_section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.created_logo_title {
+    color: rgb(215, 216, 217);
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+.created_right_sec {
+    width: 50%;
+}
+
+.each_plan_search_box_sec {
+    display: flex;
+    align-items: center;
+    border: 1px solid #1e2635;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+
+}
+
+.search_box_left {
+    width: 100%;
+}
+
+.created_search_plan {
+    font-size: 1rem;
+    font-family: sans-serif;
+    background-color: transparent;
+    border: none;
+    width: 95%;
+    outline: none;
+    color: rgb(222, 220, 220);
+    margin: 0 10px;
+}
+.created_logo_title{
+
+}
+.search_box_icon {
+    font-size: 1.3rem;
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.each_plan_section {
+    margin-top: 30px;
+    height: 475px;
+    overflow-y: auto;
+}
+
+.each_plan_list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-bottom: 30px;
+}
+
+
+.each_plan {
+    padding: 20px;
+    /* background: linear-gradient(rgb(19, 31, 36), 70%, rgba(6, 70, 135, 0.523)); */
+    background-color: #172930;
+    border-radius: 5px;
+}
+
+.each_plan:hover {
+    cursor: pointer;
+    box-shadow: 0 10px 10px 0 #0f0f10;
+}
+
+.day {
+    font-size: 1.1rem;
+    color: rgba(0, 255, 255, 0.843);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.created_date {
+    /* margin: 7px 0; */
+    margin-bottom: 10px;
+    color: gray;
+}
+
+.each_plan_data .title {
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(218, 222, 224);
+    font-weight: 600;
+    line-height: 27px;
+}
+
+.each_plan_data .dis {
+    padding: 10px 0;
+    line-height: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(218, 217, 214);
+    height: 70px;
+}
+
+.more_btn {
+    color: rgb(146, 180, 168);
+    cursor: pointer;
+}
+
+.more_btn:hover {
+    color: aliceblue;
+}
+
+.deleted_topic {
+    padding: 10px 40px;
+    border: none;
+    background-color: #0d2230;
+    color: aliceblue;
+    font-size: 1rem;
+    font-family: sans-serif;
+    border-radius: 30px;
+}
+
+.each_plan_list {}
+
+.delete_topic_btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.deleted_topic:hover {
+    background-color: #0a1217;
+    cursor: pointer;
+}
+
+.not_create_plan_sec {
+    text-align: center;
+    margin-top: 70px;
+}
+.day{
+
+}
+
+.no_plan_message {
+    font-size: 1.3rem;
+    color: rgba(255, 255, 255, 0.758);
+    font-family: sans-serif;
+}
+
+.create_a_new_plan {
+    margin-top: 30px;
+    font-size: large;
+    font-family: sans-serif;
+    color: rgb(181, 117, 240);
+    cursor: pointer;
+}
+
+.create_a_new_plan:hover {
+    text-decoration: underline;
+}
+
+.created_right_sec {
+    display: flex;
+    align-items: center;
+}
+
+.create_new_plan_box {
+    height: 40px;
+    width: 40px;
+    background-color: #172d3b;
+    margin-left: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.plan_add_icon {
+    font-size: 1.2rem;
+    color: rgb(233, 230, 230);
+}
+
+.create_new_plan_box:hover {
+    background-color: #0f0f10;
+}
+
+.deleted_message_sec {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.467), rgba(0, 0, 0, 0.598));
+    z-index: 1;
+}
+
+.deleted_message_sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.deleted_study_message_box {
+    background-color: #131f24;
+    width: 350px;
+    border-radius: 7px;
+    padding: 10px;
+}
+
+.deleted_study_message_box_data {
+    text-align: center;
+}
+
+.created_date .each_plan_data {}
+
+.success {
+    font-size: 3rem;
+    color: #08ce08;
+}
+
+.warning {
+    font-size: 3rem;
+    color: #ff8508;
+}
+
+.warning_message {
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    color: rgb(228, 224, 224);
+    margin: 7px 0;
+    line-height: 30px;
+}
+
+.classfor_dileted_action .action_btn {
+    padding: 7px 12px;
+    border: none;
+    background-color: #d53a42;
+    border-radius: 5px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+
+.classfor_dileted_action {
+    margin: 10px 0;
+}
+
+.delete_btn_plans {
+    padding: 7px 12px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #08ce08;
+    color: #131f24;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.classfor_dileted_action .action_btn:hover {
+    background-color: #d53a42e9;
+    cursor: pointer;
+}
+
+.delete_btn_plans:hover {
+    background-color: #08ce08df;
+}
+
+.deleted_success {
+    font-size: 1.3rem;
+    font-family: sans-serif;
+    color: rgb(48, 233, 73);
+    font-weight: bold;
+}
+
+.each_paln_nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.total_word_count {
+    height: 40px;
+    width: 40px;
+    background-color: #243942;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 1rem;
+    font-family: cursive;
+    color: rgb(187, 189, 191);
+}
+
+.each_plan_list {}
