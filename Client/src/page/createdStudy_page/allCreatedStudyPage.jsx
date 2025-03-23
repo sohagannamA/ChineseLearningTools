@@ -13,7 +13,7 @@ export default function CreatedStudyPage() {
     const [Isclick, setclick] = useState(false);
     const getCreatedStudyPlan = async () => {
         try {
-            const response = await axios.get("http://127.0.0.1:8000/getlearningCreate", {
+            const response = await axios.get("https://chineselearningtools-2.onrender.com/getlearningCreate", {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
