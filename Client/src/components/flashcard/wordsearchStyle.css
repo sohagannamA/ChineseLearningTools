@@ -1,0 +1,71 @@
+.word_search_box_sec {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #172930;
+    padding-right: 3px;
+    border-radius: 2px;
+}
+.flash_card_search_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.word_search_box {
+    height: 35px;
+    width: 35px;
+    background-color: #172930;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.word_search_icon {
+    color: white;
+}
+
+.word_search_box:hover {
+    background-color: #1e3843;
+    cursor: pointer;
+}
+
+.word_search_divider {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.word_search_input_box {
+    width: 70%;
+    border: none;
+    outline: none;
+    padding: 7px 10px;
+    font-family: sans-serif;
+    font-size: 1rem;
+    background-color: transparent;
+    color: rgb(209, 207, 207);
+}
+
+.search_controller_btn {
+    padding: 7px 10px;
+    background-color: #233a43;
+    border: none;
+    font-family: sans-serif;
+    color: rgb(191, 189, 189);
+}
+
+.search_controller_btn:hover{
+    cursor: pointer;
+    background-color: #2e545d;
+}
+
+.word_search_btn {
+    border-right: 1px solid #2e545d;
+}

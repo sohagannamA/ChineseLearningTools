@@ -1,6 +1,9 @@
 .flashcardMainContainer {
-    margin-left: 40%;
-    margin-right: 30%;
+    /* margin-left: 40%;
+    margin-right: 30%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .flash_card_nav_item {
@@ -8,7 +11,11 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 30px;
+
+    position: relative;
 }
+
+
 
 .each_nav_item {
     background-color: #172930;
@@ -18,6 +25,7 @@
     font-size: 14px;
     color: rgb(194, 192, 192);
     cursor: pointer;
+    margin-right: 10px;
 }
 
 .each_nav_item:hover {
@@ -110,7 +118,7 @@
     cursor: pointer;
 }
 
-.flash_card_display_section {
+.flash_card_display_section, .search_result_display_section{
     position: fixed;
     top: 0;
     left: 0;
@@ -125,6 +133,10 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
+}
+
+.fortotalword {
+    margin-top: 10px;
 }
 
 
@@ -293,13 +305,14 @@
     background-color: #131f24;
     border-radius: 10px;
     /* margin-left: 9%; */
-    padding:20px 10px;
+    padding: 20px 10px;
 }
 
 .setlastChild:last-child {
     margin-bottom: 0;
 }
-.daily_plans{
+
+.daily_plans {
     text-align: center;
     font-size: 1.2rem;
     font-family: sans-serif;
@@ -307,7 +320,7 @@
     color: rgb(230, 226, 226);
 }
 
-.each_category_section_box_data{
+.each_category_section_box_data {
     max-height: 400px;
     overflow-y: auto;
     padding-bottom: 30px;

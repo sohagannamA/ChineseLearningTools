@@ -1357,5 +1357,110 @@
         "example_sentence": "埃及是拥有悠久历史和文明的国家。(Āijí shì yǒngyǒu yōujiǔ lìshǐ hé wénmíng de guójiā.) - Egypt is a country with a long history and civilization.",
         "category": "country"
     }
+    ,{
+        "word": "今天",
+        "meaning": "today",
+        "pinyin": "jīntiān",
+        "example_sentence": "今天是星期五。(Jīntiān shì xīngqīwǔ.) - Today is Friday.",
+        "category": "time and date"
+    },
+    {
+        "word": "昨天",
+        "meaning": "yesterday",
+        "pinyin": "zuótiān",
+        "example_sentence": "昨天我去了公园。(Zuótiān wǒ qùle gōngyuán.) - Yesterday, I went to the park.",
+        "category": "time and date"
+    },
+    {
+        "word": "明天",
+        "meaning": "tomorrow",
+        "pinyin": "míngtiān",
+        "example_sentence": "明天我们有汉语课。(Míngtiān wǒmen yǒu Hànyǔ kè.) - Tomorrow we have a Chinese class.",
+        "category": "time and date"
+    },
+    {
+        "word": "现在",
+        "meaning": "now",
+        "pinyin": "xiànzài",
+        "example_sentence": "现在是下午三点。(Xiànzài shì xiàwǔ sān diǎn.) - It is 3 PM now.",
+        "category": "time and date"
+    },
+    {
+        "word": "小时",
+        "meaning": "hour",
+        "pinyin": "xiǎoshí",
+        "example_sentence": "我每天学习两小时。(Wǒ měitiān xuéxí liǎng xiǎoshí.) - I study for two hours every day.",
+        "category": "time and date"
+    },
+    {
+        "word": "分钟",
+        "meaning": "minute",
+        "pinyin": "fēnzhōng",
+        "example_sentence": "请等我五分钟。(Qǐng děng wǒ wǔ fēnzhōng.) - Please wait for me for five minutes.",
+        "category": "time and date"
+    },
+    {
+        "word": "秒",
+        "meaning": "second",
+        "pinyin": "miǎo",
+        "example_sentence": "比赛还剩三十秒。(Bǐsài hái shèng sānshí miǎo.) - The game has 30 seconds left.",
+        "category": "time and date"
+    },
+    {
+        "word": "早上",
+        "meaning": "morning",
+        "pinyin": "zǎoshang",
+        "example_sentence": "我早上六点起床。(Wǒ zǎoshang liù diǎn qǐchuáng.) - I get up at 6 AM.",
+        "category": "time and date"
+    },
+    {
+        "word": "晚上",
+        "meaning": "evening/night",
+        "pinyin": "wǎnshang",
+        "example_sentence": "晚上我们去看电影吧！(Wǎnshang wǒmen qù kàn diànyǐng ba!) - Let’s go watch a movie tonight!",
+        "category": "time and date"
+    },
+    {
+        "word": "星期",
+        "meaning": "week",
+        "pinyin": "xīngqī",
+        "example_sentence": "这个星期我很忙。(Zhège xīngqī wǒ hěn máng.) - I am very busy this week.",
+        "category": "time and date"
+    },
+    {
+        "word": "年",
+        "meaning": "year",
+        "pinyin": "nián",
+        "example_sentence": "新年快乐！(Xīnnián kuàilè!) - Happy New Year!",
+        "category": "time and date"
+    },
+    {
+        "word": "日期",
+        "meaning": "date",
+        "pinyin": "rìqī",
+        "example_sentence": "请告诉我考试的日期。(Qǐng gàosu wǒ kǎoshì de rìqī.) - Please tell me the date of the exam.",
+        "category": "time and date"
+    },
+    {
+        "word": "月",
+        "meaning": "month",
+        "pinyin": "yuè",
+        "example_sentence": "今年的五月很热。(Jīnnián de wǔ yuè hěn rè.) - This May is very hot.",
+        "category": "time and date"
+    },
+    {
+        "word": "二号",
+        "meaning": "second (day of the month)",
+        "pinyin": "èr hào",
+        "example_sentence": "今天是二号。(Jīntiān shì èr hào.) - Today is the second day of the month.",
+        "category": "time and date"
+    },
+    {
+        "word": "天",
+        "meaning": "day",
+        "pinyin": "tiān",
+        "example_sentence": "我每天跑步。(Wǒ měitiān pǎobù.) - I run every day.",
+        "category": "time and date"
+    }
     
 ]

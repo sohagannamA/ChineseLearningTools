@@ -161,6 +161,118 @@
         "category": "numeral"
     },
     {
+        "word": "时间",
+        "meaning": "time",
+        "pinyin": "shíjiān",
+        "example_sentence": "我没有时间。(Wǒ méiyǒu shíjiān.) - I don't have time.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "年",
+        "meaning": "year",
+        "pinyin": "nián",
+        "example_sentence": "新年快乐！(Xīnnián kuàilè!) - Happy New Year!",
+        "category": "Date and Time"
+    },
+    {
+        "word": "月",
+        "meaning": "month",
+        "pinyin": "yuè",
+        "example_sentence": "这个月有三十一天。(Zhège yuè yǒu sānshíyī tiān.) - This month has 31 days.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "日",
+        "meaning": "day (formal)",
+        "pinyin": "rì",
+        "example_sentence": "今天是几月几日？(Jīntiān shì jǐ yuè jǐ rì?) - What is today's date?",
+        "category": "Date and Time"
+    },
+    {
+        "word": "天",
+        "meaning": "day",
+        "pinyin": "tiān",
+        "example_sentence": "今天是个好天。(Jīntiān shì gè hǎo tiān.) - Today is a good day.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "星期",
+        "meaning": "week",
+        "pinyin": "xīngqī",
+        "example_sentence": "今天是星期五。(Jīntiān shì xīngqī wǔ.) - Today is Friday.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "周",
+        "meaning": "week",
+        "pinyin": "zhōu",
+        "example_sentence": "下周我们去旅行。(Xià zhōu wǒmen qù lǚxíng.) - We will travel next week.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "小时",
+        "meaning": "hour",
+        "pinyin": "xiǎoshí",
+        "example_sentence": "我学习两个小时。(Wǒ xuéxí liǎng gè xiǎoshí.) - I study for two hours.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "分钟",
+        "meaning": "minute",
+        "pinyin": "fēnzhōng",
+        "example_sentence": "请等我五分钟。(Qǐng děng wǒ wǔ fēnzhōng.) - Please wait for me for five minutes.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "秒",
+        "meaning": "second",
+        "pinyin": "miǎo",
+        "example_sentence": "只要一秒钟。(Zhǐyào yī miǎo zhōng.) - It only takes one second.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "早上",
+        "meaning": "morning",
+        "pinyin": "zǎoshang",
+        "example_sentence": "我早上六点起床。(Wǒ zǎoshang liù diǎn qǐchuáng.) - I wake up at six in the morning.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "中午",
+        "meaning": "noon",
+        "pinyin": "zhōngwǔ",
+        "example_sentence": "我们中午吃饭。(Wǒmen zhōngwǔ chīfàn.) - We eat lunch at noon.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "下午",
+        "meaning": "afternoon",
+        "pinyin": "xiàwǔ",
+        "example_sentence": "我下午去图书馆。(Wǒ xiàwǔ qù túshūguǎn.) - I go to the library in the afternoon.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "晚上",
+        "meaning": "evening, night",
+        "pinyin": "wǎnshang",
+        "example_sentence": "晚上好！(Wǎnshàng hǎo!) - Good evening!",
+        "category": "Date and Time"
+    },
+    {
+        "word": "点",
+        "meaning": "o’clock, dot, point",
+        "pinyin": "diǎn",
+        "example_sentence": "现在三点。(Xiànzài sān diǎn.) - It is 3 o’clock now.",
+        "category": "Date and Time"
+    },
+    {
+        "word": "不客气",
+        "meaning": "You are welcome",
+        "pinyin": "bú kèqi",
+        "example_sentence": "谢谢你！不客气。(Xièxiè nǐ! Bú kèqi.) - Thank you! You are welcome.",
+        "category": "Common Phrases"
+    },
+    {
         "word": "九",
         "meaning": "nine",
         "pinyin": "jiǔ",

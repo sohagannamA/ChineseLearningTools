@@ -9,12 +9,13 @@ import { MdOutlineClose } from "react-icons/md";
 import QuizTopic from '../quiz/QuizTopic';
 import { QuizContext } from '../contextAPI/ApplicationContext';
 export default function FlashCardDisplay(props) {
-    const { categorydata, activeTab } = props;
+    const { categorydata, activeTab, allwordClick } = props;
     const { setIsVisible } = useContext(QuizContext)
     const [viewflashCard, setViewflashCard] = useState(false);
     const synth = window.speechSynthesis;
     const [speak, setspeak] = useState(false);
     const voices = useRef([]);
+    const [container, setContainer] = useState();
 
     const [eachcategorydataPart, setEachcategoryDataPart] = useState();
 
@@ -57,10 +58,10 @@ export default function FlashCardDisplay(props) {
     }
 
 
-
     useEffect(() => {
         if (animationChar.status) {
             const container = document.getElementById("hanzi-container");
+            setContainer(container)
             container.innerHTML = "";
             const newWrite = HanziWrite.create(container, animationChar.animationChar, {
                 height: 121,
@@ -119,8 +120,11 @@ export default function FlashCardDisplay(props) {
         }
         return arr;
     }
+
+
     const CategoryGroupdat = divideDataIntoGroups(categorydata);
-    const category = CategoryGroupdat[0].data[0].category
+    const category = allwordClick ? allwordClick : CategoryGroupdat[0].data[0].category
+
     const [displayWord, setShowDisplay] = useState(false);
     const HandleseteachCategorydata = (eachcategorydata) => {
         setEachcategoryDataPart(shuffleArray(eachcategorydata));
@@ -182,6 +186,7 @@ export default function FlashCardDisplay(props) {
                                 onClick={(e) => {
                                     setShowDisplay(false);
                                     setpage(0);
+                                    container.innerHTML = "";
                                     setanimationChar({
                                         status: false,
                                         animationChar: ""
@@ -195,10 +200,10 @@ export default function FlashCardDisplay(props) {
                         </div>
                     </div>
                 </div> : <div className='divide_each_categorySection_box'>
-                    <div className='daily_plans'>YOUR LEARNING PLAN</div>
+                    <div className='daily_plans'>{allwordClick === true ? "YOUR ALL CATEGORY LEARNING PLAN" : `YOUR ${category.toUpperCase()} CATEGORY LEARNING PLAN`}</div>
                     <div className='each_category_section_box_data'>
                         {categorydata.length > 5 && (
-                            <div className='each_cetagory_box setlastChild' onClick={() => HandleseteachCategorydata(categorydata)}>
+                            <div className='each_cetagory_box fortotalword setlastChild' onClick={() => HandleseteachCategorydata(categorydata)}>
                                 <div className='ceagory_name_and_si'>Total WORD</div>
                                 <div className='total_word_box_sec'>{categorydata.length}</div>
                             </div>
@@ -209,9 +214,11 @@ export default function FlashCardDisplay(props) {
                                 <div className='total_word_box_sec'>{group.data.length}</div>
                             </div>
                         )}
-                        <div className='quiz_navber_item'>
-                            <QuizTopic category={category} activeTab={activeTab} />
-                        </div>
+                        <>
+                            {category === true ? "" : <div className='quiz_navber_item'>
+                                <QuizTopic category={category} activeTab={activeTab} />
+                            </div>}
+                        </>
                     </div>
                     <div className='border_set'></div>
                     <div className='previous_about_this_word'>

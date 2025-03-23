@@ -25,8 +25,7 @@ export default function Eachword(props) {
     }, []);
 
 
-    const logStringConcate = (text) => {
-        const limit = 60;
+    const logStringConcate = (text,limit) => {
         if (text.length > limit) {
             return text.substring(0, limit);
         }
@@ -105,8 +104,8 @@ export default function Eachword(props) {
             <div className="each_word_box">
                 {findweekData.map((data) =>
                     <>
-                        <div className="title_for_learning">{learningTitle}</div>
-                        <div className="des_for_learning">{logStringConcate(learningDes)}... <NavLink to={`/wordexplain/${wordId}`}><span className="more_btn">More</span></NavLink></div>
+                        <div className="title_for_learning">{logStringConcate(learningTitle,30)}</div>
+                        <div className="des_for_learning">{logStringConcate(learningDes,60)}... <NavLink to={`/wordexplain/${wordId}`}><span className="more_btn">More</span></NavLink></div>
                     </>
                 )}
                 <div className="action_button_sec">

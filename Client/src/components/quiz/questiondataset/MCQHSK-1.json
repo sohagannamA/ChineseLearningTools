@@ -648,5 +648,215 @@
         "category": "numeral",
         "explanation": "'十' (shí) means 'ten'.",
         "group": "mcq"
+    },
+    {
+        "id": 26,
+        "question": "What does '好' (hǎo) mean?",
+        "choices": [
+            { "option": "A", "answer": "Bad" },
+            { "option": "B", "answer": "Good" },
+            { "option": "C", "answer": "Fast" },
+            { "option": "D", "answer": "Big" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'好' (hǎo) means 'good'.",
+        "group": "mcq"
+    },
+    {
+        "id": 27,
+        "question": "What does '大' (dà) mean?",
+        "choices": [
+            { "option": "A", "answer": "Small" },
+            { "option": "B", "answer": "Big" },
+            { "option": "C", "answer": "Cold" },
+            { "option": "D", "answer": "Few" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'大' (dà) means 'big'.",
+        "group": "mcq"
+    },
+    {
+        "id": 28,
+        "question": "What does '小' (xiǎo) mean?",
+        "choices": [
+            { "option": "A", "answer": "Small" },
+            { "option": "B", "answer": "Tall" },
+            { "option": "C", "answer": "Heavy" },
+            { "option": "D", "answer": "Long" }
+        ],
+        "correct_answer": "A",
+        "category": "adjective",
+        "explanation": "'小' (xiǎo) means 'small'.",
+        "group": "mcq"
+    },
+    {
+        "id": 29,
+        "question": "What does '多' (duō) mean?",
+        "choices": [
+            { "option": "A", "answer": "Few" },
+            { "option": "B", "answer": "Many, much" },
+            { "option": "C", "answer": "Hot" },
+            { "option": "D", "answer": "Cold" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'多' (duō) means 'many, much'.",
+        "group": "mcq"
+    },
+    {
+        "id": 30,
+        "question": "What does '少' (shǎo) mean?",
+        "choices": [
+            { "option": "A", "answer": "Few, little" },
+            { "option": "B", "answer": "Cold" },
+            { "option": "C", "answer": "Happy" },
+            { "option": "D", "answer": "Big" }
+        ],
+        "correct_answer": "A",
+        "category": "adjective",
+        "explanation": "'少' (shǎo) means 'few, little'.",
+        "group": "mcq"
+    },
+    {
+        "id": 31,
+        "question": "What does '冷' (lěng) mean?",
+        "choices": [
+            { "option": "A", "answer": "Hot" },
+            { "option": "B", "answer": "Cold" },
+            { "option": "C", "answer": "Big" },
+            { "option": "D", "answer": "Beautiful" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'冷' (lěng) means 'cold'.",
+        "group": "mcq"
+    },
+    {
+        "id": 32,
+        "question": "What does '热' (rè) mean?",
+        "choices": [
+            { "option": "A", "answer": "Cold" },
+            { "option": "B", "answer": "Big" },
+            { "option": "C", "answer": "Hot" },
+            { "option": "D", "answer": "Little" }
+        ],
+        "correct_answer": "C",
+        "category": "adjective",
+        "explanation": "'热' (rè) means 'hot'.",
+        "group": "mcq"
+    },
+    {
+        "id": 33,
+        "question": "What does '高兴' (gāoxìng) mean?",
+        "choices": [
+            { "option": "A", "answer": "Happy" },
+            { "option": "B", "answer": "Beautiful" },
+            { "option": "C", "answer": "Tall" },
+            { "option": "D", "answer": "Cold" }
+        ],
+        "correct_answer": "A",
+        "category": "adjective",
+        "explanation": "'高兴' (gāoxìng) means 'happy'.",
+        "group": "mcq"
+    },
+    {
+        "id": 34,
+        "question": "What does '漂亮' (piàoliang) mean?",
+        "choices": [
+            { "option": "A", "answer": "Handsome" },
+            { "option": "B", "answer": "Beautiful" },
+            { "option": "C", "answer": "Funny" },
+            { "option": "D", "answer": "Strong" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'漂亮' (piàoliang) means 'beautiful'.",
+        "group": "mcq"
+    },
+    {
+        "id": 35,
+        "question": "Which of the following means 'good' in Chinese?",
+        "choices": [
+            { "option": "A", "answer": "大" },
+            { "option": "B", "answer": "小" },
+            { "option": "C", "answer": "好" },
+            { "option": "D", "answer": "热" }
+        ],
+        "correct_answer": "C",
+        "category": "adjective",
+        "explanation": "'好' (hǎo) means 'good'.",
+        "group": "mcq"
+    },
+    {
+        "id": 36,
+        "question": "Which word means 'big' in Chinese?",
+        "choices": [
+            { "option": "A", "answer": "少" },
+            { "option": "B", "answer": "大" },
+            { "option": "C", "answer": "漂亮" },
+            { "option": "D", "answer": "高兴" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'大' (dà) means 'big'.",
+        "group": "mcq"
+    },
+    {
+        "id": 37,
+        "question": "Which word means 'small' in Chinese?",
+        "choices": [
+            { "option": "A", "answer": "热" },
+            { "option": "B", "answer": "小" },
+            { "option": "C", "answer": "冷" },
+            { "option": "D", "answer": "高兴" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'小' (xiǎo) means 'small'.",
+        "group": "mcq"
+    },
+    {
+        "id": 38,
+        "question": "Which word means 'happy' in Chinese?",
+        "choices": [
+            { "option": "A", "answer": "少" },
+            { "option": "B", "answer": "热" },
+            { "option": "C", "answer": "高兴" },
+            { "option": "D", "answer": "冷" }
+        ],
+        "correct_answer": "C",
+        "category": "adjective",
+        "explanation": "'高兴' (gāoxìng) means 'happy'.",
+        "group": "mcq"
+    },
+    {
+        "id": 39,
+        "question": "Which of the following means 'cold' in Chinese?",
+        "choices": [
+            { "option": "A", "answer": "热" },
+            { "option": "B", "answer": "冷" },
+            { "option": "C", "answer": "大" },
+            { "option": "D", "answer": "小" }
+        ],
+        "correct_answer": "B",
+        "category": "adjective",
+        "explanation": "'冷' (lěng) means 'cold'.",
+        "group": "mcq"
+    },
+    {
+        "id": 40,
+        "question": "Which word means 'beautiful' in Chinese?",
+        "choices": [
+            { "option": "A", "answer": "漂亮" },
+            { "option": "B", "answer": "多" },
+            { "option": "C", "answer": "冷" },
+            { "option": "D", "answer": "小" }
+        ],
+        "correct_answer": "A",
+        "category": "adjective",
+        "explanation": "'漂亮' (piàoliang) means 'beautiful'.",
+        "group": "mcq"
     }
 ]

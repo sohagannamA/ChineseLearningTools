@@ -4,10 +4,10 @@ import "./quizStyle.css";
 import Quiz from "./questiondataset/MCQHSK-1.json"
 import AudioHSK1 from "./questiondataset/audiodataset/HSK-1/HSK1Audio.json"
 export default function QuizTopic(props) {
-    const { category, activeTab, setIsVisible } = props;
+    const { category, activeTab} = props;
     const mcqGroup = activeTab === "HSK-1" && Quiz.filter((item => item.category === category));
     const audioGroup = activeTab === "HSK-1" && AudioHSK1.filter((item) => item.category === category)
-
+    
     const navigate = useNavigate();
     function shuffleArray(arr) {
         for (let i = arr.length - 1; i > 0; i--) {

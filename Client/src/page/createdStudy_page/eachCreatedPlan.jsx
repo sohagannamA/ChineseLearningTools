@@ -14,8 +14,7 @@ export default function EachPlan(props) {
     const navigate = useNavigate();
     const [showmainpopup, setshowmainpopup] = useState(false);
     const [deleteOrNot, setDeleteorNot] = useState(false);
-    const logStringConcate = (text) => {
-        const limit = 60;
+    const logStringConcate = (text,limit) => {
         if (text.length > limit) {
             return text.substring(0, limit);
         }
@@ -93,8 +92,8 @@ export default function EachPlan(props) {
                             </div>
                         </div>
                         <div className="created_date">{formattedDate}</div>
-                        <div className="title">{learningtitle}</div>
-                        <div className="dis">{logStringConcate(learningdescription)}... <NavLink to={`/all_created/${createdId}`}><span className="more_btn">More</span></NavLink></div>
+                        <div className="title">{logStringConcate(learningtitle,30)} ...</div>
+                        <div className="dis">{logStringConcate(learningdescription,60)}... <NavLink to={`/all_created/${createdId}`}><span className="more_btn">More</span></NavLink></div>
                         <div className="delete_topic_btn">
                             <button type="submit" className="deleted_topic" onClick={(e) => handleLearningDec(createdId)}>Add Items</button>
                             <button type="submit" className="deleted_topic" onClick={(e) => getDeletedId(createdId)}>Delete</button>

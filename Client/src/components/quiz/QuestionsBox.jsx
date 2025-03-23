@@ -7,9 +7,9 @@ export default function QuestionsBox() {
     const location = useLocation();
     const navigate = useNavigate();
     const [countData, setCountData] = useState();
-    const { questionsGroup,setIsVisible } = location.state || {};
-    const group = questionsGroup[0].group
+    const { questionsGroup, setIsVisible } = location.state || {};
 
+    const group = questionsGroup[0].group
     useEffect(() => {
         if (!questionsGroup) { // Checks both null and undefined
             navigate("/");
@@ -31,7 +31,7 @@ export default function QuestionsBox() {
                             <CountQuestion maxcount={questionsGroup.length} passCountData={passCountData} setIsVisible={setIsVisible} />
                         )
                     )}
-                     {group === "audio" && (
+                    {group === "audio" && (
                         countData ? (
                             <AudioMCQ questionsGroup={questionsGroup} countData={countData} />
                         ) : (

@@ -1,5 +1,8 @@
 
 const modules = {
+    clipboard: {
+        matchVisual: false, // HTML ঠিকভাবে রাখতে সাহায্য করে
+    },
     toolbar: [
         [{ 'font': [] }], // Font family dropdown
         [{ 'size': ['small', false, 'large', 'huge'] }], // Font size dropdown
@@ -9,7 +12,7 @@ const modules = {
         [{ 'align': [] }], // Text alignment
         ['link'], // Media links and images
         ['clean'], // Remove formatting button
-       
+
     ]
 }
 const formats = [
@@ -18,7 +21,10 @@ const formats = [
     'link',
 ]; 'link', 'image'
 
-const modules2={
+const modules2 = {
+    clipboard: {
+        matchVisual: false, // HTML ঠিকভাবে রাখতে সাহায্য করে
+    },
     toolbar: [
         [{ 'font': [] }], // Font family dropdown
         [{ 'size': ['small', false, 'large', 'huge'] }], // Font size dropdown
@@ -28,7 +34,7 @@ const modules2={
         [{ 'align': [] }], // Text alignment
         ['link'], // Media links and images
         ['clean'], // Remove formatting button
-        
+
     ],
     keyboard: {
         bindings: {
