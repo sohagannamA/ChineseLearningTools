@@ -35,7 +35,7 @@ export default function Eachword(props) {
     const handleBookmark = async (wordId) => {
 
         try {
-            const response = await axios.put(`http://127.0.0.1:8000/addbookmark/${wordId}/${weekId}`, null, {
+            const response = await axios.put(`https://chineselearningtools-2.onrender.com/addbookmark/${wordId}/${weekId}`, null, {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
@@ -48,7 +48,7 @@ export default function Eachword(props) {
     }
     const removeBookmark = async (wordId) => {
         try {
-            const response = await axios.put(`http://127.0.0.1:8000/removeBookmark/${wordId}/${weekId}`, null, {
+            const response = await axios.put(`https://chineselearningtools-2.onrender.com/removeBookmark/${wordId}/${weekId}`, null, {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
@@ -62,7 +62,7 @@ export default function Eachword(props) {
     }
     const CheckBookmark = async () => {
         try {
-            const response = await axios.get(`http://127.0.0.1:8000/findBookmark/${wordId}/${weekId}`, {
+            const response = await axios.get(`https://chineselearningtools-2.onrender.com/findBookmark/${wordId}/${weekId}`, {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
@@ -83,7 +83,7 @@ export default function Eachword(props) {
     const getWeek = async () => {
 
         try {
-            const response = await axios.get(`http://127.0.0.1:8000/getWeek/${wordId}/${weekId}`, {
+            const response = await axios.get(`https://chineselearningtools-2.onrender.com/${wordId}/${weekId}`, {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
