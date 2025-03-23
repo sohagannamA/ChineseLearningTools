@@ -26,7 +26,7 @@ export default function EachPlan(props) {
     }
     const deleteSuccess = async () => {
         try {
-            const response = await axios.delete(`http://127.0.0.1:8000/deleteWeekPlan/${deletedId}`, {
+            const response = await axios.delete(`https://chineselearningtools-2.onrender.com/deleteWeekPlan/${deletedId}`, {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
