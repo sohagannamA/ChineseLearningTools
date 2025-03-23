@@ -11,7 +11,7 @@ export default function WordList() {
     const getallword = async () => {
 
         try {
-            const response = await axios.get(`http://127.0.0.1:8000/getallword/`, {
+            const response = await axios.get(`https://chineselearningtools-2.onrender.com/getallword/`, {
                 headers: {
                     Authorization: `Bearer ${token}`,
                 },
