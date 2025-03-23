@@ -29,7 +29,7 @@ export default function Registration() {
 
         try {
             // Send the JSON data directly to your backend
-            const response = await axios.post("http://127.0.0.1:8000/register", userData, {
+            const response = await axios.post("https://chineselearningtools-2.onrender.com/register", userData, {
                 headers: {
                     "Content-Type": "application/json" // Set the correct content type for JSON data
                 }
